@@ -1,0 +1,21 @@
+Klasy postaci w D&D 5e
+
+Wojownik (Fighter)
+Wojownik to mistrz walki wręcz i dystansowej. Może nosić każdy rodzaj zbroi i używać każdej broni.
+Cecha specjalna: Action Surge — raz na odpoczynek może wykonać dodatkową akcję.
+Punkty życia: 1d10 na poziom.
+
+Czarodziej (Wizard)
+Czarodziej czerpie moc z ksiąg zaklęć i intensywnej nauki. Słaby fizycznie, lecz potężny magicznie.
+Cecha specjalna: Arcane Recovery — odzyskuje sloty zaklęć podczas krótkiego odpoczynku.
+Punkty życia: 1d6 na poziom.
+
+Łotrzyk (Rogue)
+Łotrzyk specjalizuje się w skradaniu, kradzieży i atakach z zaskoczenia.
+Cecha specjalna: Sneak Attack — zadaje dodatkowe obrażenia gdy ma przewagę lub sojusznika w pobliżu.
+Punkty życia: 1d8 na poziom.
+
+Paladyn (Paladin)
+Paladyn to święty wojownik łączący walkę z magią boską. Składa przysięgę która nadaje mu moce.
+Cecha specjalna: Divine Smite — wydaje slot zaklęcia by zadać dodatkowe obrażenia świętym.
+Punkty życia: 1d10 na poziom.
