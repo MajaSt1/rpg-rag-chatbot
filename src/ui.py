@@ -11,7 +11,8 @@ history_state = []
 def respond(user_message: str, chat_history: list) -> tuple[str, list]:
     global history_state
     reply, history_state = chat(history_state, user_message)
-    chat_history.append((user_message, reply))
+    chat_history.append({"role": "user", "content": user_message})
+    chat_history.append({"role": "assistant", "content": reply})
     return "", chat_history
 
 

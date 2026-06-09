@@ -5,7 +5,7 @@ Osoba 2 — logika chatbota: integracja OpenAI, retrieval, historia rozmowy.
 import os
 from openai import OpenAI
 from dotenv import load_dotenv
-from retrieval import search
+from retrieval import search, list_documents, get_full_document
 
 load_dotenv()
 
@@ -22,9 +22,49 @@ ZASADY:
 5. FORMAT: Odpowiadaj naturalnie, krótko i po polsku."""
 
 
+def classify_query(user_question: str) -> str | None:
+    """
+    Routing: rozpoznaje pytania AGREGUJĄCE (porównujące/zliczające wiele obiektów,
+    np. "która klasa ma najwięcej HP?", "ile jest ras?").
+
+    Takie pytania wymagają KOMPLETU danych, a wyszukiwanie po podobieństwie zwraca
+    tylko podzbiór fragmentów. Dlatego pytamy tani model, który dokument z bazy
+    wczytać w CAŁOŚCI. Model NIE generuje tu odpowiedzi — jedynie wybiera ścieżkę.
+
+    Zwraca nazwę pliku do wczytania w całości albo None (wtedy używamy zwykłego RAG).
+    """
+    docs = list_documents()
+    decision = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{
+            "role": "user",
+            "content": (
+                "Oceń, czy pytanie użytkownika jest AGREGUJĄCE — czyli wymaga "
+                "porównania lub zestawienia WIELU elementów naraz (np. 'która z "
+                "wszystkich klas ma najwięcej HP', 'ile jest ras', 'wypisz wszystkie "
+                "zaklęcia'). Zwykłe pytanie o jeden fakt NIE jest agregujące.\n\n"
+                f"Dostępne dokumenty bazy wiedzy: {', '.join(docs)}\n\n"
+                f"Pytanie: {user_question}\n\n"
+                "Jeśli pytanie jest agregujące, odpowiedz DOKŁADNIE nazwą jednego "
+                "najbardziej pasującego pliku z listy. W przeciwnym razie odpowiedz: NONE. "
+                "Nie dodawaj nic więcej."
+            ),
+        }],
+        max_tokens=20,
+        temperature=0,
+    )
+    answer = decision.choices[0].message.content.strip()
+    return answer if answer in docs else None
+
+
 def build_prompt(user_question: str) -> str:
-    chunks = search(user_question, n_results=3)
-    context = "\n\n---\n\n".join(chunks)
+    target_doc = classify_query(user_question)
+    if target_doc:
+        # Tryb agregacji: cały dokument zamiast fragmentów (komplet danych).
+        context = get_full_document(target_doc)
+    else:
+        # Zwykły RAG: fragmenty pasujące do pytania.
+        context = "\n\n---\n\n".join(search(user_question))
     return f"Kontekst z bazy wiedzy:\n{context}\n\nPytanie: {user_question}"
 
 
