@@ -1,0 +1,118 @@
+RASY W DUNGEONS & DRAGONS 5. EDYCJA
+
+=== CZŁOWIEK (HUMAN) ===
+Ludzie są najbardziej wszechstronną i liczną rasą w większości światów D&D.
+Cechy rasowe: +1 do wszystkich sześciu atrybutów. Biegłość w jednej dodatkowej umiejętności. Jeden dodatkowy atut (feat) — opcja wariantu z Podręcznika Gracza.
+Prędkość ruchu: 30 stóp.
+Wzrost: 5–6 stóp (ok. 150–185 cm).
+Języki: Wspólny (Common) oraz jeden dodatkowy język do wyboru.
+Lore: Ludzie są znani ze swojej ambicji, zdolności do adaptacji i krótszego życia niż inne rasy, co sprawia, że są bardziej zmotywowani do osiągnięć.
+Wariant człowieka (Variant Human) z Podręcznika Gracza to jedna z najpopularniejszych opcji ze względu na darmowy feat na 1. poziomie.
+Idealne klasy: Wszystkie — szczególnie dobrze sprawdza się jako Fighter, Paladin, lub każda klasa wymagająca konkretnej kombinacji atrybutów.
+
+=== ELF (ELF) ===
+Elfy to prastare, magiczne istoty znane z wyrafinowania, piękna i długowieczności.
+Cechy rasowe: +2 do Zręczności (DEX). Ciemnowidz (Darkvision) na 60 stóp. Biegłość w Percepcji. Odporność na magię usypiania i zaleta na rzuty obronne przeciw zaurokom.
+Prędkość ruchu: 30 stóp.
+Trans: elfy nie śpią, lecz wchodzą w 4-godzinny trans medytacyjny zamiast 8-godzinnego snu.
+Wiek: elfy dojrzewają fizycznie jak ludzie, ale dorastają emocjonalnie przez ok. 100 lat. Żyją ok. 750 lat.
+Języki: Wspólny i Elficki.
+Podrasya elfa:
+Leśny Elf (Wood Elf): +1 do Mądrości (WIS), prędkość 35 stóp, biegłość z łukiem długim i krótkim, biegłość z rapierem i szablą, możliwość ukrycia się w lekkim zakryciu natury.
+Wysoki Elf (High Elf): +1 do Inteligencji (INT), biegłość z bronią elfów (długi i krótki łuk, rapier, szabla), jedna cantrip z listy czarów.
+Mroczny Elf - Drow (+1 do CHA): Darkvision 120 stóp, odporność na magię, zaklęcia Drow (dancing lights, faerie fire, darkness). Wrażliwy na silne słońce — wada do ataków i percepcji w jasnym świetle, jeśli nie jest do niego przyzwyczajony.
+
+=== KRASNOLUD (DWARF) ===
+Krasnoludowie to wytrwali, odporni górscy wojownicy i rzemieślnicy znani z miłości do złota i honoru.
+Cechy rasowe: +2 do Kondycji (CON). Ciemnowidz na 60 stóp. Odporność na trucizny (zaleta i odporność na obrażenia). Biegłość w toporach, toporkach, bojowych młotach i młoteczkach bojowych. Znajomość kamienia (stonecunning) — podwójony bonus do Historii o kamiennym budownictwie.
+Prędkość ruchu: 25 stóp, ale nie zmniejsza się przez noszenie ciężkich zbroi.
+Wiek: dojrzałość w wieku 50 lat, żyją ok. 350 lat.
+Języki: Wspólny i Krasnoludzki.
+Podrasya krasnoludów:
+Krasnolud Górski (Mountain Dwarf): +2 do Siły (STR), biegłość z lekką i średnią zbroją.
+Krasnolud Pagórkowy (Hill Dwarf): +1 do Mądrości (WIS), +1 do maksimum punktów życia na każdym poziomie.
+Krasnoludowie są znani z miłości do piwa, górnictwa i urazy — pamiętają każdą krzywdę przez pokolenia.
+
+=== NIZIOŁEK (HALFLING) ===
+Niziołkowie to radosne, spokojne stworzenia lubujące się w komforcie i jedzeniu.
+Cechy rasowe: +2 do Zręczności (DEX). Szczęście (Lucky): gdy wypadnie 1 na kości ataku, testu umiejętności lub rzutu obronnego, można przerzucić i użyć nowego wyniku. Odwaga: zaleta na rzuty obronne przeciw strachu. Zwinne: może przeciskać się przez przestrzeń zajętą przez większą istotę.
+Prędkość ruchu: 25 stóp.
+Wzrost: ok. 3 stóp (90 cm), ok. 40 funtów.
+Wiek: dojrzałość w 20 latach, żyją ok. 250 lat.
+Języki: Wspólny i Niziołecki.
+Podrasya:
+Lekkonogi (Lightfoot): +1 do Charyzmy (CHA), może ukrywać się za sojusznikami.
+Dzielny (Stout): +1 do Kondycji (CON), odporność na trucizny.
+Niziołkowie cenią spokojne życie, ale nierzadko opuszczają Norę powodowani ciekawością świata.
+
+=== GNom (GNOME) ===
+Gnomy są energicznymi, pomysłowymi istotami o naturalnym powinowactwie do magii i mechanizmów.
+Cechy rasowe: +2 do Inteligencji (INT). Ciemnowidz na 60 stóp. Gnomska przebiegłość: zaleta na rzuty obronne INT, WIS i CHA przeciw magii.
+Prędkość ruchu: 25 stóp.
+Wiek: dojrzałość w 40 latach, żyją do 500 lat.
+Języki: Wspólny i Gnomski.
+Podrasya:
+Gnomy Leśne (Forest Gnome): +1 do Zręczności (DEX), cantrip Minor Illusion, umiejętność komunikacji z małymi zwierzętami.
+Gnomy Kamienne (Rock Gnome): +1 do Kondycji (CON), biegłość w narzędziach, możliwość tworzenia mechanicznych gadżetów.
+Gnomy Głębinowe (Deep Gnome / Svirfneblin): ze Sword Coast Adventurer's Guide — żyjące w Podziemiu, wyjątkowo zwinne i trudne do wykrycia.
+
+=== PÓŁ-ELF (HALF-ELF) ===
+Pół-elfowie stoją między dwoma światami — ani w pełni elfami, ani ludźmi — i doskonale się między nimi poruszają.
+Cechy rasowe: +2 do Charyzmy (CHA), +1 do dwóch innych atrybutów do wyboru. Ciemnowidz na 60 stóp. Odporność na zaklęcia snu i zauroków. Wszechstronność: dwie dodatkowe biegłości w umiejętnościach do wyboru.
+Prędkość ruchu: 30 stóp.
+Wiek: dojrzałość jak ludzie, ale żyją do 180 lat.
+Języki: Wspólny, Elficki i jeden dowolny.
+Pół-elfowie są jednymi z najpopularniejszych ras dla Bardów, Warloków i Paladynów ze względu na bonus do CHA i elastyczność atrybutów.
+
+=== PÓŁ-ORK (HALF-ORC) ===
+Pół-orki noszą w sobie dziedzictwo brutalnej siły orków, ale są zdolne do o wiele więcej niż tylko walka.
+Cechy rasowe: +2 do Siły (STR), +1 do Kondycji (CON). Ciemnowidz na 60 stóp. Menacing: biegłość w Zastraszaniu (Intimidation). Ruthless Endurance: gdy spadają do 0 KŻ, raz mogą spaść do 1 KŻ zamiast (reakcja). Savage Attacks: dodatkowa kość obrażeń przy krytycznym trafieniu bronią.
+Prędkość ruchu: 30 stóp.
+Wiek: dojrzałość szybciej niż ludzie, żyją do ok. 75 lat.
+Języki: Wspólny i Orkijski.
+Pół-orki są naturalnymi Barbarzyńcami i Wojownikami, choć Ruthless Endurance jest świetne dla każdej klasy frontowej.
+
+=== TIEFLING (TIEFLING) ===
+Tiefliny mają w żyłach krew diabłów i są naznaczeni przez to piętno — rogi, ogon, charakterystyczne oczy.
+Cechy rasowe: +1 do Inteligencji (INT), +2 do Charyzmy (CHA). Ciemnowidz na 60 stóp. Odporność na obrażenia od ognia. Dziedzictwo piekieł: znają cantrip Thaumaturgy, na 3. poziomie Hellish Rebuke, na 5. poziomie Darkness — wszystkie używane przez CHA.
+Prędkość ruchu: 30 stóp.
+Wiek: jak ludzie.
+Języki: Wspólny i Piekielny (Infernal).
+Tiefliny są często napotykane z uprzedzeniami ze względu na swoje diabelskie pochodzenie, co kształtuje ich skomplikowane relacje ze społeczeństwem.
+Podwarianty: różne diabeł-przodek (Asmodeus, Baalzebul, Dispater, Fierna, Glasya, Levistus, Mammon, Mephistopheles, Zariel) oferują różne zestawy zaklęć.
+
+=== DRAGONBORN (DRAGONBORN) ===
+Dragonborni są humanoidami o smoczej krwi — łuskowaci, dumni i z potężnym oddechem.
+Cechy rasowe: +2 do Siły (STR), +1 do Charyzmy (CHA). Typ oddechu (Breath Weapon) zależy od przodka smoka — 2d6 obrażeń (rosnące z poziomem) w linii lub stożku. Odporność na żywioł odpowiadający typowi smoka.
+Prędkość ruchu: 30 stóp.
+Typy przodka smoka: Black (kwas), Blue (błyskawica), Brass (ogień), Bronze (błyskawica), Copper (kwas), Gold (ogień), Green (trucizna), Red (ogień), Silver (zimno), White (zimno).
+Wiek: dojrzałość w 15 latach, żyją do ok. 80 lat.
+Języki: Wspólny i Drakoński (Draconic).
+Dragonborni są naturalnymi Paladynami i Zaklinaczami — połączenie STR, CHA i niezwykłego wyglądu sprawia, że są popularnymi postaciami frontowymi o silnej osobowości.
+
+=== AASIMAR (AASIMAR) ===
+Aasimarowie mają w sobie boskie dziedzictwo — są potomkami niebiańskich istot lub zostali naznaczeni przez bogów.
+Cechy rasowe: +1 do Mądrości (WIS), +2 do Charyzmy (CHA). Ciemnowidz na 60 stóp. Niebiański opór: odporność na obrażenia nekrotyczne i promienne. Niebiańskie objawienie: znają cantrip Light. Leczenie rąk: raz na długi odpoczynek mogą uleczyć sojusznika.
+Prędkość ruchu: 30 stóp.
+Podrasya:
+Protector Aasimar: od 3. poziomu może rosnąć skrzydła i latać, emitując promienne światło.
+Scourge Aasimar: od 3. poziomu emituje intensywne promieniowanie raniące zarówno wrogów, jak i siebie.
+Fallen Aasimar: od 3. poziomu może wytwarzać nekrotyczną aurę o silnym efekcie.
+Aasimarowie są idealni dla Paladynów, Kleryków i Warlok z patronem Celestial.
+
+=== GITH ===
+Githowie to dawni niewolnicy mindflayerów — wysoka, wąska rasa o niezwykłych zdolnościach psychicznych.
+Githyanki: +2 STR, +1 INT. Biegłości w lekkiej i średniej zbroi oraz szortach, długich mieczach i halabardach. Zaklęcia psioniczne: Mage Hand, Jump (3 poziom), Misty Step (5 poziom). Idealni jako Wojownicy i Czarodzieje.
+Githzerai: +2 WIS, +1 INT. Odporność na zauroky i obezwładnienie. Zaklęcia psioniczne: Mage Hand, Shield (3 poziom), Detect Thoughts (5 poziom). Idealni jako Mnisi.
+
+=== GENASI ===
+Genasi mają w sobie krew elementali — każdy podtyp związany jest z innym żywiołem.
+Genasi Ognia (+1 INT, +2 CON): ciemnowidz, odporność na ogień, Produce Flame cantrip, Burning Hands raz dziennie.
+Genasi Wody (+1 WIS, +2 CON): może oddychać pod wodą, prędkość pływania 30 stóp, Shape Water cantrip, Create/Destroy Water raz dziennie.
+Genasi Ziemi (+2 CON, +1 STR): może poruszać się przez kamień, Pass Without Trace raz dziennie.
+Genasi Powietrza (+2 DEX, +1 CON): nie można go sforsować, Levitate raz dziennie.
+
+=== LIZARDFOLK (LIZARDFOLK) ===
+Jaszczuroludzie są zimnokrwistymi, pragmatycznymi humanoidami żyjącymi w bagnach i lasach.
+Cechy rasowe: +2 CON, +1 WIS. Bite: atak bezorężny 1d6 przeszywający, uchwyt i dodatkowe tymczasowe KŻ. Swimmer: prędkość pływania 30 stóp. Cunning Artisan: może tworzyć prymitywne narzędzia i broń z naturalnych materiałów. Hold Breath: 15 minut wstrzymywania oddechu. Natural Armor: KP 13 + mod. DEX bez zbroi.
+Języki: Wspólny i Drakoński.

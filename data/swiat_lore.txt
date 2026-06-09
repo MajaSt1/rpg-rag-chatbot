@@ -1,0 +1,116 @@
+ŚWIAT I LORE — FORGOTTEN REALMS I INNE SETTINGI D&D
+
+=== FORGOTTEN REALMS ===
+Forgotten Realms to najpopularniejszy setting D&D, obejmujący kontynent Faerûn.
+Stworzone przez Eda Greenwooda, rozwinięte przez Wizards of the Coast.
+Główne podręczniki: Sword Coast Adventurer's Guide, Volo's Guide to Monsters, Mordenkainen's Tome of Foes.
+
+=== GŁÓWNE REGIONY FAERÛN ===
+Wybrzeże Mieczy (Sword Coast): zachodnie wybrzeże Faerûn. Dom największych miast i szlak handlowy.
+Waterdeep: Miasto Splendoru — największe miasto Wybrzeża Mieczy, centrum handlu i polityki. Rządzone przez Maskowanych Lordów.
+Neverwinter: Miasto Klejnot — znane z ciepłych rzek (dzięki wulkanicznej aktywności) i jako centrum renesansu po katastrofach.
+Baldur's Gate: potężne miasto-państwo na południu Wybrzeża Mieczy. Centrum handlu i przestępczości.
+Candlekeep: wielka biblioteka na klifie — repozytorium wiedzy całego Faerûnu. Koszt wejścia: jedna unikalna książka.
+Amn: południowe królestwo kupców — praktyczne i nastawione na zysk.
+Calimshan: gorący, pustynny region na południu. Wpływy arabskie, geniusze (Djinn), sułtanaty.
+Cormyr: klasyczne rycerskie królestwo. Dom Fioletowych Smoków — elitarnych rycerzy królewskich.
+Sembia: federacja miast-państw kupieckich na wschodzie.
+Thay: mroczne imperium nekromantów i zakonu Czerwonych Magów (Red Wizards of Thay).
+Rashemen: ziemia siłaczy i wiedźm (Hagów) — surowe stepy na północnym wschodzie.
+Anauroch: wielka pustynia w centrum Faerûnu, niegdyś imperium Netheril.
+Underdark: rozległe podziemne sieci korytarzy i jaskiń pod całym Faerûnem.
+
+=== WAŻNE MIASTA ===
+Waterdeep — Miasto Splendoru:
+Populacja: ok. 130,000 mieszkańców.
+Rząd: Maskowani Lordowie — anonimowe grono rządzących, tożsamość utajniona.
+Otwarty Lord jest publiczną twarzą miasta — aktualnie Laeral Silverhand.
+Dzielnice: Zamkowa, Morska, Handlowa, Południowa, Środkowa, Północna, Podmiejska, Dok.
+Xanathar's Guild: potężna siatka przestępcza prowadzona przez tytułowego Beholdera.
+
+Baldur's Gate:
+Populacja: ok. 125,000.
+Rząd: Wielki Książę (4 Wielkich Książąt) i Parleiament Baronów.
+Sławna z Przeprawy Bailduran — fundatora miasta.
+Floresta Baldura (Bloomridge) — elegancka dzielnica wyższych klas.
+
+Neverwinter:
+Po erupcji wulkanu Neverwinter Mountain (1451 DR) miasto zostało prawie zniszczone i jest w fazie odbudowy.
+Aktualnie rządzone przez Lorda Protektora Nasher Alagondar (lub jego następcę w zależności od kampanii).
+
+=== BOGOWIE FAERÛNU ===
+Bogowie w Faerûnie są aktywnie obecni — udzielają mocy klerykom, paladynom i warlokowi (Celestial Patron).
+
+Bobrzy Dobra:
+Tyr: bóg sprawiedliwości i prawa. Symbol: waga. Domena: War, Order.
+Torm: bóg odwagi i lojalności. Symbol: biała rękawica. Domena: War.
+Helm: bóg strażników i czujności. Symbol: wytrzeszczone oko. Domena: Life, Light.
+Mystra: bogini magii. Symbol: koło gwiezdne. Domena: Arcana, Knowledge.
+Selûne: bogini księżyca i gwiazd. Symbol: para oczu otoczonych gwiazdami. Domena: Life, Twilight.
+Lathander: bóg świtu i odrodzenia. Symbol: wschodzące słońce. Domena: Life, Light.
+Sune: bogini miłości i piękna. Symbol: twarz kobiety z włosami. Domena: Life, Light.
+Kelemvor: bóg śmierci i wymiaru śmierci. Symbol: kościana dłoń z wagą. Domena: Death, Grave.
+Chauntea: bogini ziemi i rolnictwa. Domena: Life, Nature.
+Silvanus: bóg natury i dzikości. Domena: Nature, Tempest.
+
+Bogowie Neutralni:
+Oghma: bóg wiedzy i wynalazczości. Domena: Knowledge.
+Waukeen: bogini handlu. Domena: Knowledge, Trickery.
+Tempus: bóg wojen. Domena: War.
+Azuth: bóg czarodziejów (demi-bóg pod Mystrą). Domena: Arcana.
+
+Bogowie Zła:
+Bhaal: bóg mordu. Symbol: czaszka otoczona kroplami krwi. Domena: Death.
+Bane: bóg tyranii i despotyzmu. Symbol: czarna ręka z podniesionymi palcami. Domena: Order, War.
+Myrkul: bóg kości i rozkładu (jeden z Cieni). Domena: Death.
+Talos: bóg burz i zniszczenia. Domena: Tempest.
+Cyric: bóg kłamstwa i szaleństwa. Domena: Trickery.
+Umberlee: bogini morza i topielców. Domena: Tempest.
+Beshaba: bogini nieszczęścia. Domena: Trickery.
+Loviatar: bogini bólu. Domena: Death, Life.
+Shar: bogini ciemności i zapomnienia (siostra Selûne). Domena: Death, Trickery.
+
+=== ORGANIZACJE I FAKCJE ===
+Harfiarze (The Harpers): sekretna siatka szpiegów i agentów walczących ze złem i tyranią. Dewiza: Równowaga między siłą natury a cywilizacją.
+
+Sojusz Lordów (Lords' Alliance): koalicja miast Wybrzeża Mieczy dbająca o bezpieczeństwo i porządek. Oficjalna, polityczna.
+
+Order Rękawicy (Order of the Gauntlet): rycerska organizacja religijna walcząca ze złem w sposób bezpośredni.
+
+Emerald Enclave: obrońcy naturalnego porządku i równowagi między cywilizacją a dziką naturą.
+
+Zhentarim (The Black Network): tajne stowarzyszenie kupców i najemników o metodach na granicy prawa. Bogaci, bezwzględni, efektywni.
+
+=== KOSMOLOGIA (THE PLANES) ===
+Materialny Plan (Material Plane): Faerûn i inne światy, gdzie toczy się zwykłe życie.
+Feywild (Kraina Wróżek): lustrzane odbicie Material Plane — bardziej żywe kolory, emocje wzmocnione, czas płynie inaczej.
+Shadowfell: mroczne lustro Material Plane — szarość, przygnębienie, bliskość śmierci.
+Ethereal Plane (Plan Eteryczny): mglisty plan nakładający się na Material Plane.
+Inner Planes (Plany Wewnętrzne): Elemental Planes — Plan Ognia, Wody, Ziemi, Powietrza, i ich skrzyżowania.
+Outer Planes (Plany Zewnętrzne): Miejsca bogów i zaświatów:
+Mount Celestia: siedziba dobrych bóstw i aniołów.
+Mechanus: plan prawa i porządku — kosmiczne tryby.
+Limbo: plan Chaosu — niestabilna substancja.
+Nine Hells: piekło Diabłów — dziewięć warstw od Avernus do Nessus.
+Abyss: otchłań Demonów — nieskończona liczba warstw pełna Demonów.
+Gehenna: plan neutralnego zła — lawa i wyzysk.
+Astral Plane (Plan Astralny): srebrna przestrzeń między planami. Można tu wędrować jako srebrzysty cień.
+
+=== INNE SETTINGI D&D ===
+Greyhawk: klasyczny setting z 1974 roku. Świat Oerth. Bardziej tradycyjne fantasy.
+Dragonlance: epicki setting z akcentem na wojnę między siłami dobra i zła. Smoki jako centralne stworzenia.
+Eberron: magiapunk — magia zamiast technologii. Magiczne pociągi, golemowe drużyny piłki, noir-owe klimaty.
+Ravnica: świat Magic: The Gathering. Jedno wielkie miasto z dziesięcioma gildiami.
+Spelljammer: podróże kosmiczne statkami powietrznymi między systemami gwiezdnymi. Science-fantasy.
+Ravenloft: gotycki horror. Domeny terroru, Strahd von Zarovich, mroczne zamki.
+Dark Sun: post-apokaliptyczne fantasy na pustyni Athas. Brak bogów, brak żelaza, bardzo brutalne.
+Planescape: podróże między planami kosmologicznymi. Centrum: Sigil — Miasto Drzwi.
+
+=== CZAS I CHRONOLOGIA (FORGOTTEN REALMS) ===
+Dalereckoning (DR): główny system datowania w Faerûn.
+1 DR = pierwsze porozumienie Daleów z Córą Lasów.
+Rok 1491 DR: domyślny punkt startowy przygód 5. edycji.
+Ważne daty historyczne:
+Czas Kłopotów (Time of Troubles) — 1358 DR: bogowie zostali zmuszeni do zejścia na ziemię. Wiele bóstw zginęło lub zmieniło się.
+Spellplague — 1385 DR: katastrofa magiczna po śmierci Mystry. Zmieniła geografię i magię Faerûnu.
+Sundering — 1482-1487 DR: wielkie przekształcenie kosmologiczne oddzielające Faerûn od Abeir.

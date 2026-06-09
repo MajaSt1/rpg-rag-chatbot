@@ -1,0 +1,117 @@
+MAGICZNE ARTEFAKTY I LEGENDARNE PRZEDMIOTY
+
+=== ARTEFAKTY (ARTIFACTS) ===
+Artefakty to przedmioty tak potężne, że przekraczają normalną skalę rzadkości.
+Artefaktów nie można zniszczyć zwykłymi metodami — każdy posiada własną słabość (Destroying the Artifact).
+Noszenie artefaktu przyciąga uwagę mocarstw i bogów.
+Wiele artefaktów posiada własną wolę i agendę — konflikt z właścicielem jest możliwy (Sentient Items).
+
+Węzłowe Artefakty Faerûnu:
+Book of Exalted Deeds: księga absolutnego dobra. Właściciel zyskuje aureolę, przewagę na rzuty obronne, dodatkowe zaklęcia. Chaos sił zła nie może tolerować jej posiadania.
+Book of Vile Darkness: księga absolutnego zła. Tylko zło może jej używać. Zawiera okrutną wiedzę.
+Hand and Eye of Vecna: mroczny artefakt — ręka i oko boga nekromancji. Wymagają amputacji i wszczepienia prawdziwej ręki/oka by uzyskać moce.
+Wand of Orcus: różdżka boga nieumarłych. Atakuje 2d6 nekrotycznych, wzywa nieumarłe, niszczy stworzenia redukcją do 0 KŻ.
+Orb of Dragonkind: stare artefakty pozwalające kontrolować smoki konkretnego koloru.
+Sword of Kas: legendarny miecz niesie klątwę — noszący pragnie używać go do wskrzeszenia Kasa lub pokonania Vecny.
+
+=== LEGENDARNE PRZEDMIOTY (LEGENDARY ITEMS) ===
+Vorpal Sword (Miecz Vorvala) — Legendarny:
+Longsword, greatsword, lub scimitar. Wymaga dostrojenia.
+Bonus: +3 do ataków i obrażeń.
+Vorvalne Uderzenie: krytyczne trafienie dodaje 6d8 rąbiących.
+Ucinanie głów: gdy wypadnie nat20, jeśli cel ma głowę i CR < 30, głowa jest odcinana. Cel umiera.
+
+Holy Avenger — Legendarny (Tylko Paladyn):
+Longsword. Wymaga dostrojenia przez Paladyna.
+Bonus: +3. 2d10 dodatkowych promieniowych vs. demony i nieumarłe.
+Aura Zbawienia: 10-stopowa aura daje sojusznikom zaletę na rzuty obronne vs. zaklęcia.
+
+Staff of the Magi — Legendarny:
+20 ładunków. Regeneruje 4d6+2 dziennie. Wymaga dostrojenia przez Barda, Warloka, Czarownika lub Czarodzieja.
+Ładowane moce: Enlarge/Reduce (1), Hold Monster (5), Conjure Elemental (7), Plane Shift (7), Telekinesis (5) i inne.
+Retributive Strike: jako reakcja przed śmiercią, zniszczyć staff — eksplozja 10d6 per każdy ładunek.
+
+Cloak of Invisibility — Bardzo Rzadki:
+Noszony staje się niewidzialny wraz z ubranym ekwipunkiem. Wystarczy zdjąć kaptur.
+Ograniczony czas użycia: po 12 godzinach dziennego użycia cloak traci moc do następnego świtu.
+
+Belt of Giant Strength — Różne Rzadości:
+Ustawia STR noszącego:
+Belt of Hill Giant Strength: STR 21 (Rare).
+Belt of Stone/Frost Giant Strength: STR 23 (Very Rare).
+Belt of Fire/Cloud Giant Strength: STR 25 (Very Rare).
+Belt of Storm Giant Strength: STR 29 (Legendary).
+
+=== PIERŚCIENIE MOCY ===
+Ring of Spell Storing — Rare:
+Przechowuje do 5 poziomów zaklęć. Każdy może ładować zaklęcia do pierścienia. Noszący może je wyzwolić.
+
+Ring of Regeneration — Very Rare:
+Odratowuje 1d6 KŻ co 10 minut jeśli noszący ma 1+ KŻ. Może odratować amputowaną kończynę.
+
+Ring of Wishes — Legendary:
+3 ładunki. Każdy ładunek pozwala rzucić zaklęcie Wish. Po zużyciu 3 pierścień staje się mundany.
+
+Ring of Protection — Rare:
++1 do KP i wszystkich rzutów obronnych.
+
+Ring of Evasion — Rare:
+3 ładunki (1d3 po długim odpoczynku). Gdy pojawi się zaklęcie wymagające rzutu obronnego ZRĘ, można użyć 1 ładunek by automatycznie zdać.
+
+=== PŁASZCZE I STROJE ===
+Cloak of Protection — Uncommon:
++1 do KP i rzutów obronnych. Wymaga dostrojenia.
+
+Cloak of Displacement — Rare:
+Kłopotliwe iluzje wokół noszącego — atakujący mają wadę na ataki. Efekt kończy się gdy noszący jest trafiony do końca jego następnej tury.
+
+Cloak of the Bat — Rare:
+Nocny lot 40 stóp (musi być niskie oświetlenie). Może przemieniać się w bat.
+
+Robe of Stars — Very Rare:
++1 do rzutów obronnych. Noszący może wywoływać Meteorite Strikes (gwiazdki na szacie): rzuca gwiazdkę za akcję bonus, 4d6 promieniowych, zasięg 60 stóp.
+
+=== PANCERZE SPECJALNE ===
+Mithral Armor — Uncommon:
+Zbroja z mithralu. Nie nakłada wady na skradanie, nie wymaga snu przy noszeniu.
+
+Adamantine Armor — Uncommon:
+Krytyczne trafienia stają się zwykłymi trafieniami.
+
+Armor of Resistance — Rare:
+Wybrany typ obrażeń (ogień, zimno itp.): odporność.
+
+Demon Armor — Very Rare:
++1 KP bonus. Klingi broni bezorężnej (zaciśnięta pięść) zadają 1d8 rąbiących + 2d6 nekrotycznych. Wada: wymagasz dostrojenia i nie możesz zdjąć zbroi dopóki zaklęcie nie zostanie zdjęte.
+
+=== RÓŻDŻKI I LASKI SPECJALNE ===
+Wand of Wonder — Rare:
+Wydaj ładunek i wylosuj efekt (d100 tabela): wszystko od Fireball przez deszcz śliwek po chwilową petryfikację siebie. Nieprzewidywalne i chaotyczne.
+
+Staff of Healing — Rare:
+Wymaga dostrojenia przez Barda, Kleryka lub Druida. Ładunki na leczenie: Cure Wounds, Lesser Restoration, Mass Cure Wounds.
+
+Quarterstaff of the Acrobat — Uncommon:
++1, Advantage na Akrobatyce. Można używać do skakania — dystans skoku +10 stóp.
+
+=== SENTIENT ITEMS (PRZEDMIOTY Z WŁASNĄ WOLĄ) ===
+Sentient Items mają własną INT/WIS/CHA, percepcję i agendę.
+Komunikacja: telepatia, mowa lub wizje.
+Konflikt: jeśli właściciel robi coś sprzecznego z celami przedmiotu, musi zdać CHA vs. CHA przedmiotu lub przedmiot przejmuje kontrolę.
+
+Blackrazor: chaotyczny miecz pochłaniający dusze zabitych. Chce kraść dusze i dawać je noszącemu jako siłę. Przeciwny wszelkiemu powiązaniu z Śmiercią.
+Wave: trójząb oceanu. Chce promować kult bogów morza. Daje moce wodne i kontakt z Krakеnem.
+Whelm: młot krasnoludów. Nienawidzi gigantów i podburza nienawiść do wrogów krasnoludów.
+
+=== ARTEFAKTY Z MODUŁÓW ===
+Sunsword (Promień Słońca, Ravenloft): longsword +2 świetlny. Promienne obrażenia przeciw nieumarłym. Można tworzyć słońce w ciemności — zasadnicze narzędzie vs Strahda.
+
+Tome of Strahd: artefakt fabularny — dziennik Strahda von Zarovicha. Zawiera jego historię i plany. Kluczowy element kampanii Curse of Strahd.
+
+Eye of Vecna i Hand of Vecna (znowu): noszone razem dają niesamowite moce, ale wymagają wyłupienia własnego oka i ucięcia ręki — i zastąpienia artefaktem.
+
+=== ZASADY IDENTYFIKACJI MAGICZNYCH PRZEDMIOTÓW ===
+Identify (zaklęcie 1. kręgu): automatyczna identyfikacja wszystkich magicznych właściwości.
+Attunement (Dostrojenie): 10 minut kontaktu podczas krótkiego odpoczynku. Można wydobyć nazwę/właściwości przez samą komunię z przedmiotem.
+Trial and Error: używasz przedmiotu, obserwujesz efekty. Niektóre przedmioty ukrywają złośliwe właściwości do czasu dostrojenia.
+Sage/Merchant: NPC ekspert może zidentyfikować za opłatą (zwykle 100-250 GP w mieście).

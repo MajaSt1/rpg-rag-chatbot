@@ -1,0 +1,171 @@
+PUŁAPKI, ZAGADKI I ZAGROŻENIA ŚRODOWISKOWE — D&D 5E
+
+=== MECHANIKA PUŁAPEK ===
+
+WYKRYWANIE PUŁAPEK:
+Pasywna Percepcja: MG porównuje z DC pułapki. Jeśli pasywna Percepcja >= DC, gracz zauważa pułapkę automatycznie.
+Aktywne szukanie: akcja Search + test Percepcji lub Badania (zależy od rodzaju pułapki).
+Wykrycie magii: Detect Magic (zaklęcie lub cantrip) ujawnia aurę magicznych pułapek.
+Wskazówki środowiskowe: wytarte płytki podłogowe, niepasujące kamienie, ślady rdzy na ścianie, brak kurzu w jednym miejscu.
+
+NEUTRALIZACJA PUŁAPEK:
+Narzędzia złodziejskie (Thieves' Tools): test Zręczności + biegłość vs. DC pułapki. Sukces = dezaktywacja.
+Dispel Magic: automatycznie usuwa magiczne pułapki 3. kręgu lub niższe (wyższe wymagają rzutu).
+Fizyczne metody: kamień wrzucony na płytkę, kij w mechanizm, materiał blokujący dyszę trucizny.
+Force Trigger: celowe aktywowanie z bezpiecznej odległości (kij, lina, Mage Hand).
+
+STOPNIE TRUDNOŚCI PUŁAPEK:
+Prosta (Setback): DC 10-11, 1d10 obrażeń. Drobiazgowe utrudnienie.
+Umiarkowana (Dangerous): DC 12-15, 2d10 obrażeń. Poważne zagrożenie dla niskich poziomów.
+Trudna (Deadly): DC 16-20, 4d10 obrażeń. Może zabić nieuwważną postać.
+Śmiertelna (Instant): DC 20+, natychmiastowa śmierć lub ekstremalny efekt.
+
+=== PUŁAPKI MECHANICZNE ===
+
+DRZWI-NÓŻKA (FALLING PORTCULLIS):
+DC Wykrycia: 15 (Percepcja lub Badanie — widoczny mechanizm liny).
+DC Neutralizacji: 15 (Thieves' Tools lub siłowe zablokowanie STR DC 20).
+Aktywacja: wdepnięcie na płytkę lub przecięcie liny triggera.
+Efekt: krata spada — 4d10 miażdżące dla stworzenia pod kratą (DC 15 DEX połowę), uwięzienie.
+Ucieczka z pod kraty: STR DC 20 by podnieść, lub STR DC 20 by wygiąć pręty (1 godzina).
+
+STRZAŁY ZE ŚCIANY (ARROW TRAP):
+DC Wykrycia: 15 (małe otwory w ścianie, ledwo widoczne).
+DC Neutralizacji: 13 (Thieves' Tools — zatknij mechanizm).
+Aktywacja: naciągnięcie nici rozciągniętej przez korytarz (DC 14 Percepcji by zauważyć nić).
+Efekt: 3 strzały vs losowych celów w korytarzu. +8 do ataku, 1d8+4 przeszywające każda.
+Wariant Trucizna: strzały zatrute — DC 13 CON lub 2d8 trucizny + Poisoned przez 1 godzinę.
+
+KAMIEŃ STOCZNY (ROLLING BOULDER):
+DC Wykrycia: 20 (ukryta wnęka lub wyżłobienie w suficie — potrzeba badania sufitu).
+DC Neutralizacji: brak realistycznej opcji po aktywacji.
+Aktywacja: naciśnięcie płytki lub otwarcie skrzyni.
+Efekt: kamień toczy się 60 stóp. Każde stworzenie na drodze: DC 15 DEX lub 4d10 miażdżące. Może miażdżyć drzwi.
+Ucieczka: Dash by uciec, wejść do bocznej niszy, latanie, Misty Step.
+Wariant: Kula z kolcami — dodatkowe 2d6 przeszywające.
+
+PODŁOGA Z GLINĄ (FLOOR PIT):
+DC Wykrycia: 15 (Percepcja — lekko inne zabarwienie podłogi).
+DC Neutralizacji: 10 (Thieves' Tools — zablokuj mechanizm zapadni).
+Aktywacja: wejście na zagrożony obszar (zazwyczaj 10×10 stóp).
+Efekt: Stworzenie wdepnące zdaje DEX DC 15 lub wpada do dołu (głębokość 10-30 stóp = 1d6-3d6 obrażeń).
+Wariant: Dół z kolcami — na dole metalowe pale (1d10 przeszywające + obrażenia od upadku).
+Wariant: Dół z kwasem — dno pokryte kwasem (2d6 na turę kontaktu).
+
+KOMORA Z GAZEM:
+DC Wykrycia: 15 (lekki zapach migdałów lub siarki + przebarwione ściany).
+DC Neutralizacji: 20 (skomplikowany mechanizm wentylacyjny).
+Aktywacja: otwarcie drzwi lub płytka w podłodze — wypuszcza gaz przez dysze w ścianie.
+Efekt: obszar 20×20 stóp, gaz trwa 1 minutę. Każda runda w obszarze: DC 13 CON lub 2d6 trucizny + Poisoned.
+Ucieczka: wyjść poza obszar, zamknąć drzwi (gaz wypełni tylko tę komorę).
+Wariant: Gaz Usypiający — DC 11 CON lub Unconscious na 1 godzinę.
+
+MAGICZNY GLIF (GLYPH OF WARDING):
+DC Wykrycia: 13 (Badanie — Percepcja nie wystarczy, potrzeba aktywnego szukania) lub Detect Magic.
+DC Neutralizacji: Dispel Magic (poziom zaklęcia vs. DC rzucającego) lub Thieves' Tools 28 (prawie niemożliwe).
+Aktywacja: wejście w obszar, otwarcie obiektu, lub dotknięcie.
+Efekt: dowolne zaklęcie 3. kręgu lub niższe (Fireball, Lightning Bolt, Sleep itd.).
+Wariant Explosive Runes: 5d8 obrażeń od żywiołu w obszarze 20-stóp (DEX połowę).
+
+FAŁSZYWA SKRZYNIA (MIMIC):
+DC Wykrycia: Wgląd/Badanie DC 13 (fałszywy rysunek zawiasów, brak kurzu na klapie, ślady śluzu).
+Nie to jest pułapka — to potwór! (CR 2)
+Pseudopod: +5, 1d8+3 + Adhesive (Restrained).
+Bite: +5, 1d8+3 przeszywające.
+Adhesive: gdy dotkniesz — STR DC 13 lub przylep (Restrained). Uwolnienie: STR DC 13 jako akcja.
+Mimic jest jednym z ulubionych "tricksterskich" potworów — śmieszy graczy gdy przeżyją.
+
+=== PUŁAPKI MAGICZNE ===
+
+TELEPORTACJA PUŁAPKOWA:
+Aktywacja: wejście w magiczny krąg lub otwarcie konkretnego przedmiotu.
+Efekt: wszystkie stworzenia w 10-stopowej sferze teleportowane do losowego miejsca w dungeonie (lub na zewnątrz).
+Detect Magic: ujawnia aury transmutacji.
+Dispel Magic DC 15: dezaktywuje.
+
+KLĄTWA OBSZAROWA (CURSED ZONE):
+Obszar naznaczony zaklęciem Bestow Curse lub podobnym.
+Efekt: stworzenia w obszarze mają wadę na określone rzuty (np. rzuty obronne MĄD przez 1 minutę po wejściu).
+Remove Curse: usuwa efekt na stworzeniu, ale nie dezaktywuje obszaru.
+Purify: modlitwa do bóstwa lub Hallow może oczyścić obszar.
+
+ILUZORYCZNA PODŁOGA (ILLUSORY FLOOR):
+DC Wykrycia: 15 Badanie lub 20 Percepcja (iluzja jest bardzo dobra).
+Aktywacja: wejście na obszar "podłogi" — naprawdę to 30-stopowy dół.
+True Seeing lub Detect Magic: automatyczne wykrycie.
+Efekt: 3d6 obrażeń od upadku (30 stóp = 3d6) + potwory na dole lochu.
+
+=== ZAGADKI I ŁAMIGŁÓWKI ===
+
+ZAGADKA CZTERECH ŻYWIOŁÓW:
+Opis: sala z czterema posągami (ogień, woda, powietrze, ziemia). Każdy trzyma kamień. Na ścianie napis: "Daj każdemu żywiołowi to co do niego należy, a wrota się otworzą."
+Rozwiązanie: wlej wodę do wazy przy posągu wody, wrzuć kamień do mis przy ziemi, rozpal ogień w palniku przy posągu ognia, otwórz wentyl przy posągu powietrza.
+Wskazówki: symbolika kolorów (niebieski/brązowy/czerwony/biały), inskrypcje w języku starożytnym (wymagają testu Arkanów lub Historii DC 15).
+
+ZAGADKA LUSTEREK:
+Opis: ciemna sala. W centrum magiczny kryształ. Na czterech ścianach ruchome lustra. Świetlne promienie muszą trafić w kryształ by otworzyć drzwi.
+Mechanika: każde lusterko można obracać (akcja). Właściwe ustawienie przekierowuje promień dalej.
+Test: Badanie DC 12 by zrozumieć mechanizm, potem ustawianie (3-5 ruchów).
+Wariant: lustra strzelają wstecz jeśli ustawione błędnie — 1d6 promieniowych za każde błędne ustawienie.
+
+ZAGADKA KOLEJNOŚCI:
+Pięć posągów królewskich z numerami 0-4. Na podłodze instrukcja: "Oddaj hołd królom w kolejności ich panowania — od pierwszego do ostatniego."
+Wskazówki: monety z twarzami królów w skrzyni obok z datami panowania. Lub fresk z historią dynastii na ścianie.
+Test: Historia DC 13 by odczytać kolejność bez wskazówek.
+Rozwiązanie: naciśnij posągi w chronologicznej kolejności. Błędna kolejność = strzałki ze ściany (1d6 przeszywające).
+
+ZAGADKA JĘZYKÓW:
+Inskrypcja na drzwiach w martwym języku (Elvański Archaiczny, Abyssal, Celestial).
+Rozwiązanie: rzucić Comprehend Languages lub mieć biegłość w odpowiednim języku.
+Treść: "Tylko ci, którzy mówią prawdę, mogą przejść."
+Mechanika: drzwi otwierają się gdy dotkniesz je i powiesz prawdę o sobie (Truth Zone — kłamstwo = porażenie 2d8 elektrycznych).
+
+ZAGADKA WAGI:
+Dwie wagi w sali. Na jednej złota moneta, na drugiej puste. Drzwi zamknięte.
+Napis: "Równowaga otwiera drogę."
+Rozwiązanie: na drugiej szali potrzebna jest moneta lub przedmiot tej samej wagi. Można użyć Mage Hand by podnieść monetę na wagę.
+Pułapka: jeśli weźmiesz złoto bez odpowiednika — alert pułapkowy.
+Głębsza wersja: waga mierzy "wagę grzechu" — stworzenie musi wyspowiadać winę by przejść (moralna zagadka dla RP).
+
+ZAGADKA MUZYCZNA:
+Organy w sali z pięcioma klawiszami. Na ścianie nuty. Grający musi zagrać właściwą melodię.
+Mechanika: test Instrumentu (jeśli gracz ma biegłość) lub test INT DC 14 by odczytać nuty.
+Błędna nuta: 2d6 dźwiękowych obrażeń (Thunderwave na 10 stóp).
+Wskazówka: partytury można znaleźć wcześniej w dungeonie.
+
+=== ZAGROŻENIA ŚRODOWISKOWE ===
+
+WYSOKA TEMPERATURA (EXTREME HEAT):
+Powyżej 100°F (38°C): co godzinę zdaj CON DC 5 (+1 za każdą godzinę) lub zysk Exhaustion point.
+Woda, ekwipunek zimna odporność zmniejszają DC o 5.
+Fire Resistance: immunitet na environmental heat.
+Obszar: wulkany, wnętrze smoczego gniazda (Red Dragon Lair), zaklęta pustynia.
+
+NISKA TEMPERATURA (EXTREME COLD):
+Poniżej 0°F (-18°C): co godzinę zdaj CON DC 10 lub zysk Exhaustion point.
+Ciepłe ubranie (Winter Outfit) lub Cold Resistance: immunitet.
+Icewind Dale, szczyt góry, Lair White Dragona.
+
+GŁĘBOKA WODA (DEEP WATER):
+Pływanie: 1 stopa ruchu = 2 stopy kosztu (chyba że masz prędkość pływania).
+Oddychanie: stworzenia mogą wstrzymać oddech = 1 + CON modifier minuty. Potem zdają CON DC 10 (+5 co minutę) lub spadają do 0 KŻ.
+Water Breathing (zaklęcie): eliminuje problem przez 24 godziny.
+Walka pod wodą: ograniczona — broń tnąca/miażdżąca ma wadę na ataki; przeszywająca i magia — normalnie.
+
+ANTYMAGICZNA STREFA:
+Antimagic Field (zaklęcie 8. kręgu): 10-stopowa sfera wokół rzucającego.
+W strefie: wszystkie zaklęcia zawieszone, magiczne przedmioty tracą moc, magiczne stworzenia normalnie działają.
+Może być permanentna w pomieszczeniu (starożytna magia, Beholder — naturalne oko).
+Consequence: czarodnicy tracą wszystkie zdolności. Wojownicy zyskują przewagę taktyczną.
+
+NAWIEDZONY TEREN (HAUNTED GROUND):
+Teren gdzie dusze nie mogą odejść (Shadowfell rift, klątwa rzucona przez potężną magię).
+Efekty: sny o traumach poprzednich mieszkańców, pojawianie się duchów w nocy.
+Mechanika: Wisdom saving throw DC 13 co noc lub zysk 1 poziom Exhaustion przez przerywany sen.
+Remove Curse, Hallow, lub quest "uwolnij duchy" może oczyścić.
+
+ZARAZA I CHOROBY (DISEASE):
+Sewer Plague (Kanałowa Zaraza): DC 11 CON, inkubacja 1d4 dni. Objawy: Exhaustion 1 + wada na STR i CON testaczy i rzuty. Powtarza się co długi odpoczynek.
+Sight Rot (Gnilec Wzroku): DC 15 CON, osłabia widzenie co 24 godziny aż do ślepoty.
+Leczenie: Lesser Restoration lub Healer's Kit DC 15 Medicine.
+Cackle Fever (Gorączka Śmiechu): DC 13 CON, Exhaustion + śmiech w stresie (Concentration DC 10 lub stracony).

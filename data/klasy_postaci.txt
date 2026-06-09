@@ -1,0 +1,193 @@
+KLASY POSTACI W DUNGEONS & DRAGONS 5. EDYCJA
+
+=== WOJOWNIK (FIGHTER) ===
+Wojownik to mistrz walki wręcz i dystansowej. Może nosić każdy rodzaj zbroi i używać każdej broni.
+Cecha specjalna: Action Surge — raz na krótki lub długi odpoczynek może wykonać dodatkową pełną akcję w swojej turze.
+Punkty życia: 1d10 na poziom (10 na 1. poziomie).
+Rzuty obronne: Siła i Kondycja.
+Pancerz: wszystkie zbroje i tarcze.
+Bronie: broń prosta i militarna.
+Drugie tchnięcie: Bojownik może użyć bonusowej akcji by odzyskać 1d10 + poziom punktów życia. Dostępne raz na krótki odpoczynek.
+Styl walki: Wojownik na 1. poziomie wybiera styl walki, np. Obrona (+1 do KP w zbroi), Dwuręczna (+2 do obrażeń bronią dwuręczną), Ochrona (reakcja by nałożyć wadę na atak wroga w sojusznika).
+Dodatkowe cechy na wyższych poziomach: Extra Attack (dodatkowy atak od 5. poziomu), Indomitable (powtórzenie nieudanego rzutu obronnego).
+Podklasy: Champion, Battle Master, Eldritch Knight, Psi Warrior, Rune Knight.
+Champion to najprostsza podklasa — rozszerza zakres krytycznego trafienia i zyskuje dodatkowy styl walki.
+Battle Master korzysta z kości manewrów (superiority dice) do wykonywania specjalnych technik bojowych.
+Eldritch Knight łączy walkę z czarowaniem, ucząc się zaklęć ze szkoły Abjuracji i Wywołania.
+Wojownik jest idealny dla graczy, którzy chcą niezawodnej postaci frontowej o dużej elastyczności w doborze broni.
+
+=== CZARODZIEJ (WIZARD) ===
+Czarodziej czerpie moc z ksiąg zaklęć i intensywnej nauki magii. Słaby fizycznie, lecz potężny magicznie.
+Cecha specjalna: Arcane Recovery — raz na długi odpoczynek, podczas krótkiego odpoczynku, może odzyskać sloty zaklęć o łącznym poziomie nie przekraczającym połowy poziomu czarodzieja.
+Punkty życia: 1d6 na poziom (6 na 1. poziomie).
+Rzuty obronne: Inteligencja i Mądrość.
+Pancerz: brak biegłości.
+Bronie: sztylety, rzutki, proce, kije, lekkie kusze.
+Księga zaklęć: czarodziej posiada księgę zawierającą poznane zaklęcia. Na 1. poziomie zna 6 zaklęć 1. kręgu, a każdy kolejny poziom dodaje 2 zaklęcia.
+Zapamiętane zaklęcia: czarodziej każdego dnia wybiera zaklęcia do przygotowania z dostępnych w księdze. Liczba przygotowanych zaklęć = modyfikator INT + poziom czarodzieja.
+Kanonik zaklęć: INT jest kluczowym atrybutem — wyższy modyfikator INT = trudniej oprzeć się zaklęciom.
+Podklasy (szkoły magii): Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, Transmutation, Chronurgy, Graviturgy, Bladesinging, Order of Scribes, War Magic.
+Szkoła Wywołania (Evocation) skupia się na zaklęciach zadających obrażenia, np. Fireball, Lightning Bolt.
+Szkoła Iluzji pozwala tworzyć przekonujące złudzenia i mylić wrogów.
+Szkoła Nekromancji pozwala kontrolować nieumarłych i manipulować energią życiową.
+Czarodziej to klasa dla doświadczonych graczy — wymaga dobrego zarządzania zasobami i znajomości zaklęć.
+
+=== ŁOTRZYK (ROGUE) ===
+Łotrzyk specjalizuje się w skradaniu, kradzieży, wywiadzie i atakach z zaskoczenia.
+Cecha specjalna: Sneak Attack — zadaje dodatkowe obrażenia (1d6 na co dwa poziomy) gdy ma przewagę na atak lub gdy cel ma sojusznika w pobliżu i łotrzyk nie ma wady.
+Punkty życia: 1d8 na poziom (8 na 1. poziomie).
+Rzuty obronne: Zręczność i Inteligencja.
+Pancerz: lekka zbroja.
+Bronie: broń prosta, ręczne kusze, długie łuki, rapiry, szable, szorty.
+Biegłość w narzędziach: złodziejskie narzędzia.
+Cwaniactwo (Cunning Action): bonusowa akcja do rzucenia się w biegniecia (Dash), wycofania (Disengage) lub ukrycia (Hide).
+Unik (Uncanny Dodge): reakcja by zmniejszyć obrażenia o połowę gdy widzi atakującego.
+Nieuchwytność (Evasion): gdy uda się rzut obronny na Zręczność za efekty obszarowe, nie ponosi żadnych obrażeń.
+Podklasy: Thief, Assassin, Arcane Trickster, Inquisitive, Mastermind, Scout, Soulknife, Swashbuckler, Phantom.
+Złodziej (Thief) zyskuje zdolność Szybkich rąk i może używać magicznych przedmiotów.
+Zabójca (Assassin) jest wyjątkowo skuteczny przeciwko wrogom, którzy jeszcze nie działali w walce — automatyczne krytyczne trafienie.
+Iluzjonista (Arcane Trickster) łączy umiejętności łotrzyka z magią iluzji i zaklęciami z listy czarów.
+Łotrzyk świetnie sprawdza się w eksploracji lochów, rozwiązywaniu zagadek i jako skaut grupy.
+
+=== PALADYN (PALADIN) ===
+Paladyn to święty wojownik łączący walkę z magią boską. Składa przysięgę, która nadaje mu wyjątkowe moce.
+Cecha specjalna: Divine Smite — wydaje slot zaklęcia po trafieniu bronią, by zadać dodatkowe 2d8 obrażeń świętych (+1d8 za każdy poziom powyżej 1.).
+Punkty życia: 1d10 na poziom (10 na 1. poziomie).
+Rzuty obronne: Mądrość i Charyzma.
+Pancerz: wszystkie zbroje i tarcze.
+Bronie: broń prosta i militarna.
+Kluczowy atrybut: Charyzma (CHA) do czarowania.
+Wykrycie Zła i Dobra (Divine Sense): wyczuwa obecność poczwar, niebios, wróżek, nieumarłych i konsekrowanych obiektów.
+Nałożenie rąk (Lay on Hands): basen punktów życia równy 5 × poziom paladyna, które może dystrybuować jako uzdrowienie.
+Aureola ochrony (Aura of Protection): od 6. poziomu, sojusznicy w zasięgu 10 stóp dodają modyfikator CHA do rzutów obronnych.
+Przysięgi (Sacred Oaths): Devotion, Ancients, Vengeance, Conquest, Redemption, Glory, Watchers.
+Przysięga Pobożności (Devotion) to klasyczny paladyn — nastawiony na walkę ze złem i ochronę niewinnych.
+Przysięga Zemsty (Vengeance) skupia się na ściganiu i eliminowaniu szczególnie groźnych wrogów.
+Paladyn jest jedną z najsilniejszych klas w D&D 5e dzięki połączeniu pancerza, leczenia, czarów i potężnych smite'ów.
+
+=== KLERYK (CLERIC) ===
+Kleryk jest boskim kanałem mocy swojego bóstwa. Nosi zbroję, walczy i rzuca potężne zaklęcia.
+Cecha specjalna: Divine Intervention — od 10. poziomu może raz na 7 dni wzywać bezpośredniej ingerencji bóstwa.
+Punkty życia: 1d8 na poziom (8 na 1. poziomie).
+Rzuty obronne: Mądrość i Charyzma.
+Kluczowy atrybut: Mądrość (WIS) do czarowania.
+Kanał Boskości (Channel Divinity): specjalne moce zależne od domeny, dostępne raz na odpoczynek (więcej razy na wyższych poziomach).
+Odwrócenie nieumarłych (Turn Undead): zmusza nieumarłych do ucieczki. Na wyższych poziomach niszczy słabszych nieumarłych.
+Domeny: Life, Light, War, Knowledge, Trickery, Nature, Tempest, Death, Forge, Grave, Order, Peace, Twilight, Arcana, Unity.
+Domena Życia (Life) to najlepszy lecznik w grze — mnoży efekty leczenia zaklęć.
+Domena Światła (Light) skupia się na ofensywnych zaklęciach opartych na ogniu i fotony.
+Domena Wiedzy (Knowledge) daje biegłość w umiejętnościach i dostęp do czytania myśli.
+Kleryk może przygotować każde zaklęcie ze swojej listy każdego dnia, co daje ogromną elastyczność.
+Kapłan jest filarem każdej grupy przygodniczej, zapewniając leczenie i wsparcie.
+
+=== BARBARZYŃCA (BARBARIAN) ===
+Barbarzyńca to potężny wojownik czerpiący siłę z dzikiej furii i pierwotnych instynktów.
+Cecha specjalna: Rage — bonusowa akcja, aktywna przez 1 minutę. W furii zyskuje bonus do obrażeń bronią melee, odporność na obrażenia fizyczne, a rzuty obronne na Siłę i Kondycję korzystają z zalety.
+Punkty życia: 1d12 na poziom (12 na 1. poziomie) — największa kość życia w grze.
+Rzuty obronne: Siła i Kondycja.
+Pancerz: lekka i średnia zbroja, tarcze.
+Nieokiełznana obrona (Unarmored Defense): bez zbroi KP = 10 + mod. ZRĘ + mod. KON.
+Lekkomyślny atak (Reckless Attack): zaleta na ataki Siłą, ale wrogowie mają zaletę na ataki przeciw barbarzyńcy.
+Wyczucie niebezpieczeństwa (Danger Sense): zaleta na rzuty obronne ZRĘ przed efektami, które barbarzyńca widzi.
+Dodatkowy atak (Extra Attack): od 5. poziomu.
+Brutalny krytyk (Brutal Critical): dodatkowe kości obrażeń przy krytycznym trafieniu.
+Ścieżki prastarych (Primal Paths): Berserker, Totem Warrior, Ancestral Guardian, Storm Herald, Zealot, Beast, Wild Magic, Battlerager.
+Berserker może wchodzić w szał frenzied rage, zyskując dodatkowy atak bonusową akcją.
+Wojownik Totemu (Totem Warrior) wybiera zwierzęce totemy: Niedźwiedź (odporność na wszystko poza psychiką), Orzeł (latanie w czasie furii), Wilk (przewala wrogów z nóg).
+Barbarzyńca jest idealny jako pancerny mięsak frontowy z ogromną ilością punktów życia.
+
+=== BARD (BARD) ===
+Bard jest wszechstronnym artystą-magikiem czerpiącym moc z muzyki, poezji i opowieści.
+Cecha specjalna: Bardic Inspiration — bonusowa akcja, rozdaje kości inspiracji (1d6 rosnące do 1d12) sojusznikom, którzy mogą ich użyć do testów umiejętności, ataków lub rzutów obronnych.
+Punkty życia: 1d8 na poziom (8 na 1. poziomie).
+Rzuty obronne: Zręczność i Charyzma.
+Kluczowy atrybut: Charyzma (CHA).
+Pancerz: lekka zbroja.
+Bronie: broń prosta, ręczne kusze, rapiry, szable.
+Biegłości: trzy instrumenty muzyczne do wyboru.
+Wiedza o wszystkim (Jack of All Trades): dodaje połowę bonusu biegłości do każdej umiejętności bez biegłości.
+Pieśń odpoczynku (Song of Rest): podczas krótkiego odpoczynku sojusznicy odzyskują dodatkowe KŻ.
+Magia z różnych list: Bard może kraść zaklęcia z list innych klas (Magical Secrets).
+Kolegia Bardów: Lore, Valor, Glamour, Swords, Whispers, Creation, Eloquence, Spirits.
+Kolegium Wiedzy (Lore) skupia się na wsparciu i kradnięciu zaklęć od innych klas.
+Kolegium Waleczności (Valor) pozwala nosić średnią zbroję i atakować bonusową akcją.
+Bard jest klasą dla graczy, którzy chcą być centrum uwagi w interakcjach społecznych i wspierać drużynę.
+
+=== DRUID (DRUID) ===
+Druid jest kapłanem natury czerpiącym moc z sił pierwotnych: lasu, morza, gór i nieba.
+Cecha specjalna: Wild Shape — druid może przemieniać się w zwierzęta, których Challenge Rating nie przekracza określonego progu.
+Punkty życia: 1d8 na poziom (8 na 1. poziomie).
+Rzuty obronne: Inteligencja i Mądrość.
+Kluczowy atrybut: Mądrość (WIS).
+Pancerz: lekka i średnia zbroja niewykonana z metalu, tarcze.
+Bronie: maczugi, szable, sztylety, oszczepy, maczugi, kije, scimitarze, proce, włócznie.
+Druid nie może używać metalowych zbroi ani tarcz.
+Języki: Druidic — tajny język druidów, którego uczą się wszystkie kręgi.
+Koła druidów: Land, Moon, Stars, Shepherd, Spores, Dreams, Wildfire, Twilight.
+Krąg Księżyca (Circle of Moon): mocniejsza forma Wild Shape — może przemieniać się w elementy z CR 1 od 2. poziomu, CR rośnie z poziomem. Może używać Wild Shape w walce.
+Krąg Ziemi (Circle of Land): odzyskuje sloty zaklęć podczas krótkich odpoczynków i zyskuje dodatkowe zaklęcia zależne od wybranego terenu.
+Druid jest świetnym kontrolerem pola bitwy i ma jedne z najlepszych zaklęć obszarowych.
+
+=== MNICH (MONK) ===
+Mnich jest mistrzem walki wręcz, trenującym ciało i umysł do perfekcji. Korzysta z wewnętrznej energii ki.
+Cecha specjalna: Ki — zasób specjalnych punktów (równy poziomowi mnicha) do wykonywania nadnaturalnych technik.
+Punkty życia: 1d8 na poziom (8 na 1. poziomie).
+Rzuty obronne: Siła i Zręczność.
+Pancerz: brak biegłości.
+Bronie: broń prosta, shortsword.
+Nieokiełznana obrona (Unarmored Defense): KP = 10 + mod. ZRĘ + mod. MĄD.
+Marsowy Arts: atak bronią mnicha lub pięść zadaje 1d4 (rosnące do 1d10) obrażeń, dodaje mod. ZRĘ do ataków.
+Seria uderzeń (Flurry of Blows): 1 ki — dwa dodatkowe uderzenia pięścią.
+Cierpliwa obrona (Patient Defense): 1 ki — akcja Dodge jako bonusowa akcja.
+Krok Wiatru (Step of the Wind): 1 ki — Dash lub Disengage jako bonusowa akcja, skok podwójony.
+Powolny upadek (Slow Fall): reakcja, zmniejsza obrażenia od upadku o 5 × poziom.
+Tradycje Mnicha: Open Hand, Shadow, Four Elements, Astral Self, Drunken Master, Kensei, Mercy, Sun Soul, Long Death.
+Mnich Otwartej Dłoni może odpychać, przewracać i blokować reakcje wrogom przy Flurry of Blows.
+Mnich Cienia używa ki do rzucania zaklęć z listy Czarujących z zakresu iluzji i przywołania oraz do teleportacji w ciemnościach.
+
+=== ZAKLINACZ (SORCERER) ===
+Zaklinacz posiada wrodzoną magię, wynikającą z boskiego dziedzictwa, drakońskiej krwi lub innych niezwykłych źródeł.
+Cecha specjalna: Metamagic — wydaje punkty czarnoksięstwa (sorcery points) by modyfikować zaklęcia: przedłużać czas, rozszerzać obszar, podwajać cele.
+Punkty życia: 1d6 na poziom (6 na 1. poziomie).
+Rzuty obronne: Kondycja i Charyzma.
+Kluczowy atrybut: Charyzma (CHA).
+Pancerz: brak biegłości.
+Bronie: broń prosta, kusze ręczne, sztylety.
+Zaklęcia znane: zaklinacz zna tylko ograniczoną liczbę zaklęć, ale zna je zawsze — bez codziennego przygotowywania.
+Punkty czarnoksięstwa (Sorcery Points): zasób pozwalający tworzyć sloty zaklęć lub używać Metamagii.
+Opcje Metamagii: Careful Spell (sojusznicy nie są trafiani zaklęciami obszarowymi), Distant Spell (zwiększa zasięg), Empowered Spell (przerzut kości obrażeń), Quickened Spell (cast jako bonusowa akcja), Twinned Spell (zaklęcie na jeden cel trafia dwa cele).
+Rodowody czarnoksięstwa (Sorcerous Origins): Draconic Bloodline, Wild Magic, Clockwork Soul, Aberrant Mind, Divine Soul, Shadow Magic, Storm Sorcery, Lunar Sorcery.
+Drakońskie Dziedzictwo: związane z typem smoka, daje bonus do KP bez zbroi i wzmocnienie zaklęć tego żywiołu.
+Dzika Magia (Wild Magic): nieprzewidywalne erupcje magii — po rzuceniu zaklęcia 1. kręgu lub wyższego MG może poprosić o rzut 1d20, a wynik 1 uruchamia Wild Magic Surge.
+
+=== ŁOWCA (RANGER) ===
+Łowca jest wędrowcem i tropicielem, znawcą dziczy i ekspertem w zwalczaniu wybranych wrogów.
+Cecha specjalna: Favored Enemy — zyskuje zalety w śledzeniu i interakcjach z wybranym typem wrogów.
+Punkty życia: 1d10 na poziom (10 na 1. poziomie).
+Rzuty obronne: Siła i Zręczność.
+Pancerz: lekka i średnia zbroja, tarcze.
+Bronie: broń prosta i militarna.
+Naturalny eksplorarz (Natural Explorer): zna jeden typ terenu, w którym zyskuje liczne korzyści.
+Styl walki (Fighting Style): jak wojownik, ale opcje ograniczone do Archery, Defense, Dueling, Two-Weapon Fighting.
+Ulubiony teren i wróg skalują się z poziomem.
+Archetypy łowcy: Hunter, Beast Master, Gloom Stalker, Horizon Walker, Monster Slayer, Fey Wanderer, Swarmkeeper, Drakewarden.
+Łowca-Myśliwy (Hunter): na 3. poziomie wybiera jedną z kilku cech bojowych (Colossus Slayer, Giant Killer, Horde Breaker).
+Władca Bestiów (Beast Master): zyskuje magiczne zwierzę towarzysza, z którym może walczyć w tandemie.
+Łowca stosuje zaklęcia, ale w skromniejszej ilości niż pełni czarownicy — jest klasą pół-casterów.
+
+=== WARLOK (WARLOCK) ===
+Warlok zawarł pakt z potężną nadnaturalną istotą i czerpie z niej magiczną moc.
+Cecha specjalna: Eldritch Blast — kanoniczna cantrip (nie zaklęcie slotowe), zadająca 1d10 obrażeń siłowych na odległość 120 stóp.
+Punkty życia: 1d8 na poziom (8 na 1. poziomie).
+Rzuty obronne: Mądrość i Charyzma.
+Kluczowy atrybut: Charyzma (CHA).
+Pancerz: lekka zbroja.
+Bronie: broń prosta.
+Sloty zaklęć Paktu: warlok ma tylko 1-2 sloty zaklęć na raz, ale odzyskuje je po KAŻDYM odpoczynku (krótkim i długim).
+Eldritch Invocations: specjalne moce wykupywane co kilka poziomów, modyfikujące Eldritch Blast lub dające inne zdolności (np. at-will invisibility, teleport).
+Pact Boon (Dar Paktu): wybór między Pact of the Chain (familiar), Pact of the Blade (brona z paktu), Pact of the Tome (księga z cantrips), Pact of the Talisman (talizman pomocowy).
+Patroni Paktu: Archfey, Fiend, Great Old One, Celestial, Hexblade, Undying, Fathomless, Genie, Undead.
+Diabeł (Fiend): zaklęcia z listy czarów ognia i zniszczenia, zysk tymczasowych KŻ za zabijanie wrogów.
+Wielki Starożytny (Great Old One): telepatia, zaklęcia umysłu, dostęp do informacji z odległych miejsc.
+Heksmistrz (Hexblade): walka bronią z charyzmy zamiast siły/zręczności — popularny multiclass z innymi klasami.
+Warlok to unikalna klasa — mało zaklęć, ale odświeżanych często i z potężnymi modyfikatorami.

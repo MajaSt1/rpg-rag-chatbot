@@ -1,0 +1,177 @@
+PRZYGODY, MODUŁY I SŁYNNE LOCHY — D&D 5E
+
+=== OFICJALNE KAMPANIE D&D 5E ===
+
+LOST MINE OF PHANDELVER (Starter Set):
+Poziomy: 1-5.
+Setting: Phandalin i okolice, Wybrzeże Mieczy.
+Fabuła: Drużyna eskortuje towar do Phandelin, trafia na kryjówkę goblinów i odkrywa spisek Redbrandów. Kulminacja: lochy Phandelver's Pact (Stara Kopalnia Fal'delver).
+Wrogowie: Klarg Bugbear, Grol Bugbear, Black Spider (Nezznar Drow Mage), Glasstaff (Iarno Albrek mage).
+Ważne lokacje: Phandelin (baza), Tresendar Manor (kwatera Redbrandów), Cragmaw Castle (gobliny), Wave Echo Cave (końcowy dungeon).
+Dlaczego warto: Idealny wstęp do D&D. Balansuje walkę, eksplorację i interakcje społeczne. Wciąż uważany za jeden z najlepszych starterów.
+
+CURSE OF STRAHD (Ravenloft):
+Poziomy: 1-10.
+Setting: Barovia — gotycka, mroczna kraina zamknięta mgłami.
+Fabuła: Drużyna zostaje wciągnięta do Barvii i uwięziona przez wampira Strahda von Zarovicha. Musi odkryć tajemnicę landu i pokonać Strahda.
+Główny antagonista: Strahd von Zarovich — wampir CR 15, tyran, tragiczna postać zakochana w kobiecie która wybrała jego brata.
+Mechanika: Karty Tarotsowe (Tarokka) losują pozycje sojuszników (Ireena, van Richten) i artefaktów (Sunsword, Tome of Strahd, Holy Symbol of Ravenkind).
+Słynne lokacje: Zamek Ravenloft (lochy na 14 pięter), Wioska Barovia, Krezk (klasztor), Vallaki (miasto pod terrorem), Amber Temple (starożytna kopalnia mrocznych darowizn).
+Dlaczego warto: Mroczna, narracyjna kampania. Strahd to jeden z najlepiej napisanych antagonistów w historii D&D.
+
+STORM KING'S THUNDER:
+Poziomy: 1-11 (lub 5-11).
+Fabuła: Giganci zaburzają porządek kosmiczny — ich hierarchia (Ordning) runęła. Drużyna musi odkryć przyczynę i zapobiec wojnie gigantów z cywilizacją.
+Typy gigantów: Storm Giants (najmocniejsi, szukają odpowiedzi), Cloud Giants (intryganci), Fire Giants (podbijają), Frost Giants (rabusieria), Hill Giants (głupie, agresywne), Stone Giants (sztuka i snucie).
+Antagoniści: Iymrith (starożytna niebieska smoczyca udająca storm giganta), King Hekaton (porwany Storm Giant).
+Epicki teren: zamki na chmurach, podmorskie miasta, lochy gorących wulkanów.
+
+WATERDEEP: DRAGON HEIST:
+Poziomy: 1-5.
+Setting: Waterdeep — Miasto Splendoru.
+Fabuła: Urban fantasy heist. Drużyna szuka skarbu półmiliona złotych monet ukrytych w Waterdeep.
+Mechanika: Czterech różnych antagonistów (Xanathar Beholder, Manshoon wampiryczny mage, Jarlaxle drow, Laeral Silverhand?) w zależności od sezonu wybranego przez MG (jesień/zima/wiosna/lato).
+Eksploracja miasta: misje, frakcje Waterdeep, praca detektywistyczna.
+
+WATERDEEP: DUNGEON OF THE MAD MAGE:
+Poziomy: 5-20.
+Setting: Undermountain — megadungeon pod Waterdeep z 23 poziomami.
+Fabuła: Postaci eksplorują lochy Halastera Blackcloaka — szalonego maga który stworzył ogromne podziemia.
+Każdy poziom to inne środowisko: plaże, dżungla, miasto drow, plan astraly, miasto nieumarłych.
+Jeden z największych oficjalnych dungeonów w historii D&D.
+
+BALDUR'S GATE: DESCENT INTO AVERNUS:
+Poziomy: 1-13.
+Fabuła: Baldur's Gate zostaje przeklęte, wciągnięte w konflikt z Avernus (pierwsza warstwa Piekła). Drużyna musi uratować miasto.
+Avernus: rozległe piekło pełne demonów, diabłów i zniszczonych machin wojennych.
+Mechlanorki: Infernal War Machines — latające/jeżdżące machiny bojowe w Avernus.
+Antagoniści: Zariel (Fallen Angel, rządząca Avernus), Demon Princes (Baphomet, Yeenoghu).
+Epilog Baldur's Gate 3: historia ta łączy się tematycznie z fabułą gry komputerowej BG3.
+
+ICEWIND DALE: RIME OF THE FROSTMAIDEN:
+Poziomy: 1-12.
+Setting: Icewind Dale — arktyczny północny kraniec Faerûn.
+Fabuła: Auril (Bogini Zimy) zamroziła Icewind Dale w wiecznej zimie. Słońce nie wstało od 2 lat. Drużyna odkrywa spisek za zamarzniętą kurtyną.
+Auril to antagonista, ale nie jedyna — tajemnica głębsza i bardziej kosmiczna.
+Klimat: survival horror w zamarzniętym pustkowiu.
+Mechanika przetrwania: wychłodzenie, zamieć, ograniczone zasoby.
+
+CANDLEKEEP MYSTERIES:
+Poziomy: 1-16.
+Format: 17 niezależnych jednowyprawowych (one-shot) przygód, każda związana z inną księgą w Candlekeep.
+Różnorodność: od kryminałów przez horrory po komedię.
+Idealne na wstawki między kampaniami lub jako sesje testowe.
+
+FIZBAN'S TREASURY OF DRAGONS:
+Nie kampania, ale podręcznik ze szczegółami o smokach.
+Zawiera: Draconic Orders, nowe smoki (Gem Dragons), szczegółowe lochy smoków, questy związane ze smokami, nowe opcje postaci (Drakewarden Ranger, way of Ascendant Dragon Monk).
+
+=== SŁYNNE LOCHY I MIEJSCA ===
+
+UNDERMOUNTAIN (Halaster's Hold):
+Największy lochy w Faerûnie — 23 poziomy pod Waterdeep.
+Stworzony przez Halastera Blackcloaka, szalonego maga który stopniowo tracił umysł.
+Każdy poziom to inne środowisko: ruiny, drow outpost, githyanki twierdza, rift do astral plane, miasto nieumarłych, arena gladiatorów.
+Halaster zmienia losowo kolejki i układ lochów, co utrudnia mapowanie.
+Klucz do lochów: Yawning Portal — tawerna z 40-stopową studnią prowadzącą wprost do Undermountain. 1 GP opłata za zjazd.
+
+XONTHAL'S TOWER:
+Wieża szalonego maga otoczona labiryntem magicznym. Każde drzwi prowadzą gdzie indziej.
+Żeby wejść musisz rozwiązać serię zagadek przestrzennych i logicznych.
+Wewnątrz: chromane pokoje zmieniające się co wizytę.
+
+TOMB OF HORRORS (Grób Terroru):
+Legendarny moduł Gary'ego Gygaxa z 1975. Przeprojektowany na 5e.
+Lochy stworzone przez Acereka Lichza — pełne pułapek, fałszywych wyjść i instant-death.
+Nie da się wygrać siłą — wymagana mądrość i ostrożność.
+Słynne elementy: Sphere of Annihilation (dotknięcie = instant death), Cylinder of Arching (elektryczność), Demilich Acererak.
+Demilich Acererak: CR 21. Może wchłonąć dusze — bez ciała nie możesz być wskrzeszony. Odporny na prawie wszystko.
+
+WHITE PLUME MOUNTAIN (Biały Pióropusz):
+Aktywny wulkan z lochami wewnątrz. Szalony mage Keraptis ukradł trzy legendarne bronie: Wave (trójząb), Whelm (młot), Blackrazor (miecz).
+Każda broń to Sentient Item — każda "prowadzi" do siebie.
+Klasyczny dungeon z dużą ilością łamigłówek i niestandardowych środowisk: pod wodą, na antypodach grawitacji, w bańkach powietrznych.
+
+RAVENLOFT:
+Zamek Ravenloft to dom Strahda — pełen 14 pięter lochów, setki komnat.
+Mapa jest publiczna (oficjalna) ale układ wewnętrzny się zmienia w zależności od woli Strahda.
+Strahd wie o każdym, kto wchodzi do zamku i może teleportować się w każde miejsce w nim.
+Skarb Strahda: stare artefakty z czasów gdy był żywym Królem — warte majątek, ale dostać się do nich...
+
+DUNGEON OF THE DEAD THREE:
+Kult Bane'a, Bhala i Myrkula w Baldur's Gate.
+Podziemia pełne nieumarłych, pułapek rytualnych i Cultistów.
+Finał: walka z manifestacjami martwych bogów.
+
+=== ONE-SHOTS I MAŁE PRZYGODY ===
+
+THE SUNLESS CITADEL:
+Poziomy: 1-4.
+Ruiny twierdzy wciągniętej pod ziemię po eksplozji magicznej przed stu laty.
+Teraz zamieszkane przez Goblinów Tribe Durbuluks i Koboldów Clan Yusdrayl.
+Tajemnica drzewa jabłoni produkującego magiczne owoce na zimę (leczą) i lato (zatruwają).
+Finał: Belak the Outcast — druid, który opanował drzewo.
+
+THE FORGE OF FURY:
+Poziomy: 3-5. Kontynuacja Sunless Citadel (ale niezwiązana fabularnie).
+Ruiny fortecy Krasnoluda Durgedina — który zginął razem ze wszystkimi krasnoludami.
+Teraz zajęte przez Orki, Troglodyty, Kuo-Toa i na dole — Czarną Smoczynę Nightscale.
+Słynny z ciągłości poziomów i logicznej ekologii dungeonów.
+
+THE WILD BEYOND THE WITCHLIGHT:
+Poziomy: 1-8. Można ukończyć bez walki (oficjalnie!).
+Setting: Feywild — kraina wróżek.
+Wejście przez wędrowny karnawał (Witchlight Carnival).
+Mechanika: Każdy gracz zaczyna z "skradzionym wspomnieniem" — coś zabrano im w dzieciństwie.
+Antagoniści: Zybilna (Hag) i jej siostry.
+
+GHOSTS OF SALTMARSH:
+Poziomy: 1-12.
+Setting: przybrzeżne miasto Saltmarsh — eksploracja morska.
+Seria przygód z motywem morskim: przemytnicy, piraci, sahuagin, ship combat.
+
+=== SŁYNNE FRAKCJE I ORGANIZACJE ===
+
+ZHENTARIM — Czarna Sieć:
+Organizacja: tajna sieć kupców, szpiegów i najemników.
+Motywacja: zysk i kontrola nad handlem.
+Metody: korupcja, szantaż, eliminacja konkurencji.
+Na granicy prawa — nie są "źli", ale bezwzględni w biznesie.
+Rangowa hierarchia: Fang (niezidentyfikowany agent), Wolf, Viper, Ardragon, Doom, Black Flame (Przywódcy).
+
+HARFIARZE — Harpers:
+Cel: walka z tyranią i zachowanie równowagi władzy.
+Metody: wywiad, szpiegostwo, wsparcie dla opresjonowanych.
+Struktura: pozioma, sieciowa. Brak centralnego dowódcy.
+Symbol: harfa ze strzałą księżyca.
+Ideologia: wolność jednostki, przeciw koncentracji władzy.
+
+ORDER OF THE GAUNTLET:
+Cel: bezpośrednia walka ze złem i korupcją.
+Metody: zbrojne oddziały, wyprawy w imię bogów.
+Wyznawcy: Tyr, Torm, Helm, Lathander.
+Najbardziej "rycerska" z frakcji.
+
+LORDS' ALLIANCE (Sojusz Lordów):
+Cel: bezpieczeństwo cywilizacji Sword Coast.
+Członkowie: Waterdeep, Neverwinter, Baldur's Gate, Mithral Hall.
+Metody: polityczne, dyplomatyczne, wojskowe gdy trzeba.
+Interesuje ich stabilność — nie dobro w sensie moralnym.
+
+EMERALD ENCLAVE:
+Cel: ochrona równowagi między cywilizacją a dziką naturą.
+Metody: pilnowanie że lasy nie są wycinane, że kataklizmy naturalne są kontrolowane.
+Wyznawcy: Silvanus, Chauntea, Mielikki.
+Często druidzi, łowcy i strażnicy natury.
+
+XANATHAR'S GUILD:
+Przywódca: Xanathar — Beholder obsesyjnie kochający swojego goldfish (Sylgar).
+Działalność: przestępczość zorganizowana w Waterdeep — kradzieże, zabójstwa, haracz.
+Struktura: Xanathar na górze, generałowie dla każdej dzielnicy Waterdeep.
+Słabość Xanadhara: obsesja na punkcie rybki. Zagrożenie dla Sylgara = słabość Beholdera.
+
+BREGAN D'AERTHE:
+Drow mercenary company z Menzoberranzan.
+Przywódca: Jarlaxle Baenre — charismatyczny drow w wielkim kapeluszu.
+Działalność: wynajem jako zabójcy i szpiedzy, również na Powierzchni.
+Jarlaxle jest jednym z najciekawszych NPC — moralnie szary, humorystyczny, niebezpieczny.

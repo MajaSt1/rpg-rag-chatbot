@@ -1,0 +1,186 @@
+TŁA POSTACI, MOTYWACJE I HACZYKI FABULARNE — D&D 5E
+
+=== OFICJALNE TŁA (BACKGROUNDS) ===
+
+AKOLITA (ACOLYTE):
+Biegłości: Wgląd (Insight), Religia (Religion).
+Języki: dwa dodatkowe.
+Wyposażenie: Symbol bóstwa, modlitewnik lub koło modlitewne, 5 kadzideł, szaty, sakiewka z 15 GP.
+Cecha: Schronienie Wiernych — klasztory i świątynie twojego bóstwa oferują schronienie i pomoc.
+Ideały: Tradycja, Wiara, Dobroczynność, Moc (religia to środek do celu).
+Więź: Szukam zaginionego kleryka/relikwii/tekstu świętego.
+Wada: Nieugięty dogmatyzm. Potępiam tych którzy nie czczą mojego bóstwa.
+Wskazówka RP: Akolita to doskonały start dla Kleryków i Paladynów, ale może być ciekawy dla Łotrzyka (uciekinier z klasztoru).
+
+PRZESTĘPCA (CRIMINAL):
+Biegłości: Oszustwo (Deception), Skradanie (Stealth).
+Narzędzia: narzędzia złodziejskie, jedna gra losowa.
+Wyposażenie: Łom, ciemny kaptur, narzędzia złodziejskie, gra (kości/karty), sakiewka z 15 GP.
+Cecha: Kontakt w Przestępczym Środowisku — sieć informatorów, passer przez posterunki, kupiec kradzionych towarów.
+Specjalność Przestępcy: Szantażysta, Łamacz zamków, Włamywacz, Kieszonkowiec, Przemytnik, Zabójca, Pasernik.
+Ideały: Wolność (nikt nie może mi rozkazywać), Lojalność (zdradam prawo, ale nigdy drużynę), Zysk.
+Wada: Gdy widzę wartościowy przedmiot, moje ręce same go sięgają.
+
+ŻOŁNIERZ (SOLDIER):
+Biegłości: Atletyka (Athletics), Zastraszanie (Intimidation).
+Narzędzia: jedna gra losowa, pojazdy lądowe.
+Wyposażenie: Ranga wojskowa (odznaka lub mundur), trofeum z kampanii, kości, sakiewka z 10 GP.
+Cecha: Status Wojskowy — inni wojskowi i garnizon respektują rangę, mogą mieć dostęp do fortów.
+Specjalności: Oficer, Harcownik, Medyk, Kwatermistrz, Standardowy żołnierz, Szpieg, Strateg.
+Wada: Mam trudność z respektowaniem władzy cywilnej. Patrzę na nie-żołnierzy z górą.
+RP: Doskonały start dla Wojownika i Barbarzyńcy. Interesujący dla Kleryka boga wojen.
+
+UCZONY (SAGE):
+Biegłości: Arkana (Arcana), Historia (History).
+Języki: dwa dodatkowe.
+Wyposażenie: Butelka czarnego atramentu, pióro, nóż listonoski, list od kolegi z pytaniem na które nie zna odpowiedzi, zestaw ubrań pospolitych, sakiewka z 10 GP.
+Cecha: Badacz — gdy szukasz informacji, wiesz gdzie i od kogo można je zdobyć. Jeśli nie wiesz, wiesz kto wie.
+Specjalności: Alchemik, Astronom, Maniak Dyskretny, Bibliotekarz, Skryba, Badacz Natury, Szpieg (jako cover).
+Wada: Mówię bez myślenia, cytując teorie ponad praktykę. Gardzę tymi co nie cenią wiedzy.
+RP: Ideal dla Czarodzieja, ale świetnie działa jako Bard-loremaster.
+
+SZLACHCIC (NOBLE):
+Biegłości: Historia (History), Perswazja (Persuasion).
+Narzędzia: jedna gra towarzyska.
+Języki: jeden dodatkowy.
+Wyposażenie: Drobny sygnet, pedigree i zapis genealogiczny, szykowne ubrania, sakiewka z 25 GP.
+Cecha: Pozycja w Towarzystwie — dostęp do kręgów elitarnych, prywatne audiencje, nabycie artefaktów.
+Wariant: Rycerz — wymień sygnet na medal honorowy. Rycerz ma sługę (commoner) jako świty.
+Wady: "Jeśli coś muszę zrobić sam, to znaczy, że coś poszło nie tak."
+RP: Najciekawszy gdy postać "spada" — zbankrutowana szlachta, wydziedziczony dziedzic.
+
+PUSTELNK (HERMIT):
+Biegłości: Medycyna (Medicine), Religia (Religion).
+Narzędzia: narzędzia zielarskie.
+Języki: jeden dodatkowy.
+Wyposażenie: Zestaw skrybów, zielnik, zimowe ubranie, sakiewka z 5 GP.
+Cecha: Odkrycie — podczas odosobnienia odkryłeś ważną tajemnicę (spisek bóstw, ukrytą prawdę o stworzeniu, przepowiednia).
+RP: Genialny dla Druida, Mnicha i Kleryków rzadkich bóstw. Postać z tajemnicą.
+
+LUDOWY BOHATER (FOLK HERO):
+Biegłości: Obchodzenie się ze zwierzętami (Animal Handling), Przetrwanie (Survival).
+Narzędzia: jeden rzemieślniczy, pojazdy lądowe.
+Wyposażenie: Narzędzia rzemiosła, szufelka lub kielnia (łopata), żelazny garnek, zwykłe ubrania, sakiewka z 10 GP.
+Cecha: Więź z Ludem — pospolici ludzie sympatyzują i pomagają. Zawsze możesz znaleźć schronienie i żywność w małej wiosce.
+RP: Idealny dla Paladyna albo Wojownika ze wsi. Tło o prostym człowieku który stał się bohaterem przez przypadek lub konieczność.
+
+WYRZUTEK (OUTLANDER):
+Biegłości: Atletyka (Athletics), Przetrwanie (Survival).
+Narzędzia: jeden instrument muzyczny.
+Języki: jeden dodatkowy.
+Wyposażenie: Kij, pułapka na zwierzęta, trofeum z zabitego zwierzęcia, podróżnicze ubranie, sakiewka z 10 GP.
+Cecha: Wędrowiec — zawsze możesz znaleźć jedzenie i wodę w dziczy. Zapamiętasz każdy teren przez który przeszedłeś.
+RP: Doskonały dla Barbarzyńcy, Druida i Łowcy. Kontrast kulturowy (dzika osoba w mieście) to świetny RP.
+
+MARYNARZ (SAILOR):
+Biegłości: Atletyka (Athletics), Percepcja (Perception).
+Narzędzia: narzędzia nawigacyjne, pojazdy wodne.
+Wyposażenie: Lina 50 stóp, szczęśliwa figurka, klub, zwykłe ubranie, sakiewka z 10 GP.
+Cecha: Passage bezpieczeństwa — możesz bezpłatnie pływać na statkach handlowych (ty i drużyna) w zamian za pracę.
+Wariant Pirat: zamiast Passage, masz Złą Reputację — budzisz strach w portach. Możesz zastraszać.
+
+=== MOTYWACJE I WADY ===
+
+ZESTAW 20 MOTYWACJI DLA POSTACI:
+1. Zemsta na konkretnej organizacji lub osobie.
+2. Poszukiwanie zaginionego brata/siostry.
+3. Wyzwolenie rodzinnych ziem z opresji.
+4. Odkrycie tajemnicy swojego magicznego dziedzictwa.
+5. Zbudowanie reputacji godnej pieśni bardów.
+6. Zebranie fortuny i odkupienie długów rodu.
+7. Ochrona małego miasteczka przed zagrożeniami.
+8. Służba bóstwu poprzez wyprawy.
+9. Znalezienie lekarstwa na klątwę dotykającą bliskich.
+10. Odkrycie ruin starożytnej cywilizacji.
+11. Ucieknięcie przed gildia zabójców która ściga postać.
+12. Odbudowanie zniszczonej klasy (klasztor, świątynia, szkoła magii).
+13. Udowodnienie swojej niewinności w zbrodni której nie popełniono.
+14. Zdobycie konkretnego artefaktu dla patrona lub mistrza.
+15. Powstrzymanie przepowiedni o zagładzie.
+16. Nauczenie się zaklęcia które pozwoli wskrzesić kogoś bliskiego.
+17. Zdobycie wolności po życiu jako sługa/niewolnik/żołnierz.
+18. Wyjście z długu wobec niebezpiecznej organizacji.
+19. Zbadanie anomalii magicznej która zniszczyła rodzinne miasto.
+20. Zwykła chciwość — zdobyć jak najwięcej złota.
+
+ZESTAW 20 WAD I SŁABOŚCI:
+1. Kleptoman — kradnę cenne rzeczy bez myślenia.
+2. Alkoholik — problemy z odmową kieliszka w tawernie.
+3. Hazardzista — tracę forsy przy każdej okazji gry.
+4. Tchórz — unikam walki gdy tylko możliwe.
+5. Pyszałek — muszę się przechwałać każdym osiągnięciem.
+6. Podejrzliwy — nie ufam nikomu bez konkretnych dowodów.
+7. Skąpiec — nienawidzę wydawać własnych pieniędzy.
+8. Impulsywny — decyduję przed myśleniem.
+9. Naiwny — wierzę prawie każdemu.
+10. Obsesja na punkcie konkretnego wroga.
+11. Strach przed konkretnym rodzajem potwora lub środowiskiem.
+12. Uzależnienie od konkretnego narkotyku lub eliksiru.
+13. Kłamstwo odruchowe — kłamię nawet gdy niepotrzebne.
+14. Żal za przeszłością — trudno mi działać w teraźniejszości.
+15. Zazdrość wobec bardziej uzdolnionych towarzyszy.
+16. Fanatyzm religijny — wszystko oceniam przez pryzmat wiary.
+17. Arogancja — gardzę rasami i klasami niżej w mojej hierarchii.
+18. Kodeks honorowy który utrudnia skuteczne działanie (np. nie mogę atakować od tyłu).
+19. Sekret który muszę ukrywać za wszelką cenę.
+20. Lenistwo — wybieram najłatwiejszą drogę zawsze.
+
+=== HACZYKI FABULARNE (PLOT HOOKS) ===
+
+DLA WOJOWNIKA:
+Dawny towarzysz broni pojawia się jako antagonista — teraz służy wrogowi.
+Rozkaz który wykonałeś okazał się zbrodnią wojenną. Ofiary szukają odwetu.
+Twój mistrz miecza znika w tajemniczych okolicznościach.
+Stare pole bitwy nawiedzone przez duchy poległych — potrzeba exorcysty i kogoś który zna historię.
+
+DLA CZARODZIEJA:
+Twoja Księga Zaklęć zostaje skradziona — i zabójca znaleziony ze znakami zaklęcia z niej.
+Odkrywasz notatkę swojego nauczyciela sugerującą że twoja magia ma nieznane źródło.
+Zaklęcie które rzuciłeś dawno temu teraz wykazuje nieoczekiwane skutki uboczne.
+Ktoś fałszuje twoje imię — rzuca zaklęcia udając ciebie i zostawia świadków.
+
+DLA KLERYKA:
+Bóstwo milczy — modlitwy bez odpowiedzi. Drużyna musi znaleźć przyczynę.
+Fałszywy prorok głosi w imieniu twojego bóstwa i robi złe rzeczy.
+Świątynia twojego bóstwa zostaje zbezczeszczona — kto i dlaczego?
+Odkrywasz relikt który zmienia twoje rozumienie wiary.
+
+DLA ŁOTRZYKA:
+Osoba którą okradłeś okazuje się ważnym świadkiem w sprawie o morderstwo.
+Dawny partner w przestępstwie wraca po podziale łupów — twierdząc że go oszukałeś.
+Zlecenie kradzieży okazuje się pułapką — ktoś chce cię dopaść.
+Twoja tożsamość zastępcza ożywa — ktoś podszywając się pod twój fałszywy profil.
+
+DLA PALADYNA:
+Twoja przysięga wchodzi w konflikt z nakazem bóstwa.
+Osoba którą chronisz okazuje się nie być warta ochrony — ale przysięga zobowiązuje.
+Upadły Paladyn szuka odkupienia — potrzebujesz zdecydować czy mu pomóc.
+Twoje bóstwo żąda działania które twoja drużyna uważa za błędne.
+
+DLA DRUIDA:
+Część lasu którą chronisz umiera z nieznanych przyczyn.
+Starożytne drzewo budzi się i mówi — prosi o pomoc.
+Druid kręgu z którego pochodzi okazuje się służyć złym siłom.
+Zwierzęta uciekają z konkretnego regionu — coś je odpędza.
+
+=== BACKSTORY QUESTIONS — 20 PYTAŃ ===
+1. Skąd pochodzi twoja postać (miasto, wioska, las)?
+2. Jaka była jej rodzina (rodzice, rodzeństwo, opiekunowie)?
+3. Jakie miała dzieciństwo (bezpieczne, biedne, wojenne)?
+4. Kto/co zainspirował ją do przygód?
+5. Jaki jest jej największy sukces sprzed przygód?
+6. Jaki jest jej największy błąd lub żal?
+7. Kogo kocha lub kochała?
+8. Kogo nienawidzi lub boi się?
+9. Co postać robi gdy nikt nie patrzy?
+10. Jaki jest jej ulubiony sposób spędzania czasu wolnego?
+11. Jakich wartości nie złamałaby za żadną cenę?
+12. Jakie wartości jest gotowa złamać dla wyższego dobra?
+13. Jaki jest jej stosunek do pieniędzy — zbiera, wydaje, rozdaje?
+14. Jak postać reaguje na: niesprawiedliwość, kłamstwo, ból innych?
+15. Czy ma wierzenia religijne i jak głęboko?
+16. Jaki jest jej stosunek do magii (fascynacja, strach, obojętność)?
+17. Jak postać wygląda i dlaczego tak się ubiera/nosi broń?
+18. Jaki jest jej stosunek do sojuszników — zachowuje dystans czy się przywiązuje?
+19. Czego postać się wstydzi ze swojej przeszłości?
+20. Jaka byłaby jej odpowiedź na "Czego szukasz w życiu?"

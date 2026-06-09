@@ -1,8 +1,9 @@
 """
-Osoba 1 — baza wiedzy: ładowanie dokumentów, chunking, embeddingi, wyszukiwanie.
+Osoba 1 — baza wiedzy: ładowanie dokumentów, chunking semantyczny, embeddingi, wyszukiwanie.
 """
 
 import os
+import re
 from pathlib import Path
 import chromadb
 from chromadb.utils import embedding_functions
@@ -12,8 +13,6 @@ load_dotenv()
 
 CHROMA_DIR = "chroma_db"
 COLLECTION_NAME = "rpg_knowledge"
-CHUNK_SIZE = 400  # znaki
-CHUNK_OVERLAP = 50
 
 openai_ef = embedding_functions.OpenAIEmbeddingFunction(
     api_key=os.getenv("OPENAI_API_KEY"),
@@ -27,14 +26,34 @@ collection = client.get_or_create_collection(
 )
 
 
-def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> list[str]:
+def parse_text_semantically(text: str, file_name: str) -> tuple[list[str], list[dict]]:
+    """
+    Dzieli tekst na podstawie separatorów === NAGŁÓWEK ===.
+    Zwraca listę chunków oraz odpowiadającą im listę metadanych (source i section).
+    """
     chunks = []
-    start = 0
-    while start < len(text):
-        end = start + chunk_size
-        chunks.append(text[start:end])
-        start += chunk_size - overlap
-    return chunks
+    metadatas = []
+    
+    parts = re.split(r'===\s*(.*?)\s*===', text)
+    
+    if parts[0].strip():
+        chunks.append(f"Źródło: {file_name}\nSekcja: Wstęp\n{parts[0].strip()}")
+        metadatas.append({"source": file_name, "section": "Wstęp"})
+        
+    for i in range(1, len(parts), 2):
+        section_name = parts[i].strip()
+        content = parts[i+1].strip() if i+1 < len(parts) else ""
+        
+        if content:
+            chunk_text = f"Źródło: {file_name}\nSekcja: {section_name}\n{content}"
+            chunks.append(chunk_text)
+            
+            metadatas.append({
+                "source": file_name, 
+                "section": section_name
+            })
+            
+    return chunks, metadatas
 
 
 def load_documents(data_dir: str = "data") -> None:
@@ -46,18 +65,33 @@ def load_documents(data_dir: str = "data") -> None:
 
     for file in files:
         text = file.read_text(encoding="utf-8")
-        chunks = chunk_text(text)
+        
+        chunks, metadatas = parse_text_semantically(text, file.name)
+        
+        if not chunks:
+            continue
+            
         ids = [f"{file.stem}_{i}" for i in range(len(chunks))]
-        metadatas = [{"source": file.name} for _ in chunks]
 
         collection.upsert(documents=chunks, ids=ids, metadatas=metadatas)
-        print(f"Załadowano {file.name}: {len(chunks)} chunków")
+        print(f"Załadowano {file.name}: {len(chunks)} chunków semantycznych")
 
 
 def search(query: str, n_results: int = 3) -> list[str]:
     """Zwraca top-N fragmentów pasujących do pytania."""
     results = collection.query(query_texts=[query], n_results=n_results)
-    return results["documents"][0]
+    
+    documents = results["documents"][0]
+    distances = results["distances"][0]
+    metadatas = results["metadatas"][0] 
+
+    for i in range(len(documents)):
+        sekcja = metadatas[i].get('section', 'Brak')
+        plik = metadatas[i].get('source', 'Brak')
+
+
+
+    return documents
 
 
 if __name__ == "__main__":

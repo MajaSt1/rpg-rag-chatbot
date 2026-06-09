@@ -1,0 +1,130 @@
+EKWIPUNEK I PRZEDMIOTY W DUNGEONS & DRAGONS 5. EDYCJA
+
+=== WALUTY ===
+System monetarny w D&D oparty na metalach:
+Miedź (CP — Copper Piece): najniższa waluta. 100 CP = 1 SP.
+Srebro (SP — Silver Piece): 10 SP = 1 GP.
+Elektrum (EP — Electrum Piece): rzadko używana, 5 EP = 1 GP.
+Złoto (GP — Gold Piece): podstawowa waluta. Ceny towarów i usług wyrażane w GP.
+Platyna (PP — Platinum Piece): 10 GP = 1 PP.
+
+=== BROŃ PROSTA MELEE ===
+Club: 1d4 miażdżące. Właściwości: Light. Cena: 1 SP.
+Dagger (Sztylet): 1d4 przeszywające. Właściwości: Finesse, Light, Thrown (20/60). Cena: 2 GP.
+Greatclub: 1d8 miażdżące. Właściwości: Two-Handed. Cena: 2 SP.
+Handaxe: 1d6 rąbiące. Właściwości: Light, Thrown (20/60). Cena: 5 GP.
+Javelin: 1d6 przeszywające. Właściwości: Thrown (30/120). Cena: 5 SP.
+Light Hammer: 1d4 miażdżące. Właściwości: Light, Thrown (20/60). Cena: 2 GP.
+Mace: 1d6 miażdżące. Cena: 5 GP.
+Quarterstaff (Kij): 1d6 miażdżące. Właściwości: Versatile (1d8). Cena: 2 SP.
+Sickle: 1d4 rąbiące. Właściwości: Light. Cena: 1 GP.
+Spear (Włócznia): 1d6 przeszywające. Właściwości: Thrown (20/60), Versatile (1d8). Cena: 1 GP.
+
+=== BROŃ PROSTA DYSTANSOWA ===
+Crossbow, Light (Kusza Lekka): 1d8 przeszywające. Zasięg: 80/320. Właściwości: Loading, Two-Handed. Cena: 25 GP.
+Dart (Rzutka): 1d4 przeszywające. Zasięg: 20/60. Właściwości: Finesse, Thrown. Cena: 5 CP.
+Shortbow (Krótki Łuk): 1d6 przeszywające. Zasięg: 80/320. Właściwości: Two-Handed. Cena: 25 GP.
+Sling (Proca): 1d4 miażdżące. Zasięg: 30/120. Cena: 1 SP.
+
+=== BROŃ MILITARNA MELEE ===
+Battleaxe (Topór Bojowy): 1d8 rąbiące. Właściwości: Versatile (1d10). Cena: 10 GP.
+Flail: 1d8 miażdżące. Cena: 10 GP.
+Glaive: 1d10 rąbiące. Właściwości: Heavy, Reach, Two-Handed. Cena: 20 GP.
+Greataxe (Wielki Topór): 1d12 rąbiące. Właściwości: Heavy, Two-Handed. Cena: 30 GP.
+Greatsword (Wielki Miecz): 2d6 rąbiące. Właściwości: Heavy, Two-Handed. Cena: 50 GP.
+Halberd: 1d10 rąbiące. Właściwości: Heavy, Reach, Two-Handed. Cena: 20 GP.
+Longsword (Długi Miecz): 1d8 rąbiące. Właściwości: Versatile (1d10). Cena: 15 GP.
+Maul: 2d6 miażdżące. Właściwości: Heavy, Two-Handed. Cena: 10 GP.
+Pike: 1d10 przeszywające. Właściwości: Heavy, Reach, Two-Handed. Cena: 5 GP.
+Rapier: 1d8 przeszywające. Właściwości: Finesse. Cena: 25 GP.
+Scimitar (Szabla): 1d6 rąbiące. Właściwości: Finesse, Light. Cena: 25 GP.
+Shortsword: 1d6 przeszywające. Właściwości: Finesse, Light. Cena: 10 GP.
+War Pick: 1d8 przeszywające. Cena: 5 GP.
+Warhammer: 1d8 miażdżące. Właściwości: Versatile (1d10). Cena: 15 GP.
+Whip: 1d4 rąbiące. Właściwości: Finesse, Reach. Cena: 2 GP.
+
+=== BROŃ MILITARNA DYSTANSOWA ===
+Blowgun: 1 przeszywające. Zasięg 25/100. Cena: 10 GP.
+Crossbow, Hand: 1d6 przeszywające. Zasięg: 30/120. Właściwości: Light, Loading. Cena: 75 GP.
+Crossbow, Heavy: 1d10 przeszywające. Zasięg: 100/400. Właściwości: Heavy, Loading, Two-Handed. Cena: 50 GP.
+Longbow (Długi Łuk): 1d8 przeszywające. Zasięg: 150/600. Właściwości: Heavy, Two-Handed. Cena: 50 GP.
+
+Właściwości broni:
+Ammunition: wymaga nabojów (strzały, bełty, kamienie do procy). Można odzyskać połowę po walce.
+Finesse: gracz wybiera STR lub DEX do ataków i obrażeń.
+Heavy: małe stworzenia mają wadę na ataki tą bronią.
+Light: można używać jako broń dodatkową bez kary.
+Loading: można strzelić tylko raz na turę, niezależnie od Extra Attack.
+Reach: wydłuża zasięg do 10 stóp.
+Thrown: można rzucić w wymienionym zasięgu.
+Two-Handed: wymaga obu rąk.
+Versatile: można używać jedną ręką (mniejsze kości) lub oboma (większe kości).
+
+=== SPRZĘT PRZYGODNICZY ===
+Backpack (Plecak): 5 GP, 5 funtów. Pomieszcza 30 funtów.
+Bedroll: 1 GP, 7 funtów.
+Torch (Pochodnia): 1 CP, 1 funt. Oświetlenie 20 stóp jasno + 20 ciemno przez 1 godzinę.
+Rations (Racje żywnościowe): 5 SP na dzień, 2 funty.
+Rope (Lina): Hemp 1 GP, 10 funtów / Silk 10 GP, 5 funtów. 50 stóp.
+Tinderbox (Krzesiwo): 5 SP, 1 funt.
+Waterskin: 2 SP, 5 funtów (pełna).
+Lantern, Bullseye: 10 GP. Oświetlenie stożek 60 stóp jasno + 60 ciemno przez 6 godzin (na oliwę).
+Grappling Hook: 2 GP, 4 funty.
+Thieves' Tools: 25 GP, 1 funt. Wymagane do otwierania zamków i neutralizacji pułapek.
+Healer's Kit: 5 GP, 3 funty. 10 użyć do stabilizowania rannych bez rzutu.
+
+=== MAGICZNE PRZEDMIOTY ===
+Rzadkości magicznych przedmiotów: Common, Uncommon, Rare, Very Rare, Legendary.
+Attunement: wiele potężnych przedmiotów wymaga dostrojenia — procesu zajmującego krótki odpoczynek. Maksymalnie 3 dostrojenia jednocześnie.
+
+=== KAMIENIE IOUNNE ===
+Ioun Stones to kule latające wokół głowy właściciela.
+Ioun Stone of Awareness: nie można być zaskoczycionym, zaleta na Percepcję.
+Ioun Stone of Fortitude: +2 do maksimum KŻ.
+Ioun Stone of Greater Absorption: pochłania zaklęcia 6-8. kręgu.
+
+=== MAGICZNE BRONIE ===
++1/+2/+3 Weapon: bonus do ataków i obrażeń. Liczba traktuje trafienie jako magiczne (omija odporności).
+Flame Tongue: longsword lub inny miecz z płomieniami — dodatkowe 2d6 od ognia po aktywacji.
+Frost Brand: miecz zimna — 1d6 zimna dodatkowych obrażeń, immunity na zimno, gasit ogień w 30 stopach na turze.
+Vorpal Sword: greatsword/longsword/scimitar — dodatkowe 6d8 obrażeń rąbiących. Przy nat20 obcina głowę jeśli cel jej nie jest większy od właściciela.
+Holy Avenger: paladyński longsword — +3, 2d10 dodatkowych promiennych vs nieumarłe/demony, aura antymagii 10 stóp. Wymaga dostrojenia przez Paladyna.
+
+=== MAGICZNE ZBROJE ===
++1/+2/+3 Armor: bonus do KP.
+Armor of Invulnerability: plate. Odporność na niemagiczne obrażenia fizyczne, raz dziennie immunitet.
+Dragon Scale Mail: odporność na żywioł odpowiadający smokowi, zaleta na rzuty obronne vs smocze robrażenia.
+
+=== MAGICZNE RÓŻDŻKI I LASKI ===
+Wand of Fireballs: 7 ładunków. Wydaj 1-3 ładunki by rzucić Fireball odpowiedniego poziomu (bez wymagania slotu). Regeneruje 1d6+1 ładunków co dzień. Na 1: wand wybucha.
+Staff of Power: 20 ładunków, regeneruje 2d8+4 dziennie. Kosztuje ładunki na rozmaite zaklęcia.
+Rod of Lordly Might: kombajn magiczny — może stać się bronią, drabiną, kompasem, użyć mocy Paralyze, Frighten lub Drain.
+
+=== MAGICZNE RÓŻDŻKI ===
+Wand of Magic Detection: 3 ładunki. Rzuca Detect Magic bez slotu.
+Wand of Web: 7 ładunków. Rzuca Web (DC 15 STR, lub KP 10 Web rośnie).
+
+=== ELIKSIRY I NAPOJE ===
+Potion of Healing: 50 GP. Leczy 2d4+2 KŻ. Akcja.
+Potion of Greater Healing: 150 GP. Leczy 4d4+4 KŻ.
+Potion of Superior Healing: 450 GP. Leczy 8d4+8 KŻ.
+Potion of Supreme Healing: 1350 GP. Leczy 10d4+20 KŻ.
+Potion of Invisibility: 180 GP. Niewidzialność na 1 godzinę.
+Potion of Speed: 400 GP. Efekt zaklęcia Haste na 1 minutę.
+Potion of Fly: 500 GP. Latanie 60 stóp na 1 godzinę.
+Potion of Giant Strength: różne. Ustawia STR na 21-29 zależnie od typu giganta.
+
+=== NARZĘDZIA (TOOLS) ===
+Artisan's Tools: narzędzia rzemiosła (kowalskie, ciesielskie, szewskie itp.). 2-50 GP.
+Thieves' Tools: narzędzia złodzieja. 25 GP.
+Navigator's Tools: narzędzia nawigacyjne. 25 GP.
+Herbalism Kit: zestaw zielarski. 5 GP. Pozwala tworzyć Antitoxin i leczyć niektóre trucizny.
+Alchemist's Supplies: zestaw alchemiczny. 50 GP.
+Gaming Set: gry hazardowe lub planszowe. 1 GP.
+Musical Instrument: instrumenty. 2-30 GP.
+
+=== MĄDROŚCI ZAKUPOWE ===
+Rynki w dużych miastach (np. Waterdeep, Baldur's Gate) mają dostęp do niemal wszystkich pospolitych towarów.
+Magiczne przedmioty Uncommon/Rare są rzadko sprzedawane — wymagają kontaktów lub renomy.
+Czarny rynek może oferować nielegalne towary (trucizny, zabronione magiczne przedmioty).
+Sprzedając sprzęt gracze zazwyczaj dostają połowę ceny katalogowej.

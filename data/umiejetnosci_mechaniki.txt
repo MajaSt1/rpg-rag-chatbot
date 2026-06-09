@@ -1,0 +1,144 @@
+UMIEJĘTNOŚCI I MECHANIKI PODSTAWOWE — D&D 5. EDYCJA
+
+=== SZEŚĆ ATRYBUTÓW (ABILITY SCORES) ===
+Postać posiada sześć fundamentalnych atrybutów, każdy z wartością od 1 do 20 (czasem wyżej).
+Wartość atrybutu przekłada się na modyfikator: (wartość - 10) / 2, zaokrąglony w dół.
+Przykład: Siła 16 = modyfikator +3. Inteligencja 8 = modyfikator -1.
+
+Siła (STR — Strength):
+Moc fizyczna ciała. Używana do ataków wręcz bronią melee, testów Atletyki, noszenia ciężarów.
+Pojemność noszenia: STR × 15 funtów = limit noszenia.
+
+Zręczność (DEX — Dexterity):
+Zwinność, refleks, precyzja. Używana do ataków dystansowych i finesse, testów Akrobatyki, Skradania, Złodziejstwa.
+Wpływa na Inicjatywę i Klasę Pancerza przy lekkiej/średniej zbroi.
+
+Kondycja (CON — Constitution):
+Wytrzymałość i odporność ciała. Wpływa na maksymalne Punkty Życia (+mod. CON × poziom).
+Używana do rzutów obronnych na Koncentrację i wiele trucizn/chorób.
+
+Inteligencja (INT — Intelligence):
+Pamięć, logika, analiza. Kluczowy atrybut Czarodziejów.
+Używana do testów Arcany, Historii, Badania, Natury, Religii.
+
+Mądrość (WIS — Wisdom):
+Spostrzegawczość i intuicja. Kluczowy atrybut Kleryków i Druidów.
+Używana do testów Percepcji, Wglądu, Medycyny, Przetrwania, Obchodzenia się ze zwierzętami.
+
+Charyzma (CHA — Charisma):
+Siła osobowości, umiejętności społeczne. Kluczowy atrybut Bardów, Paladynów, Warloków, Zaklinaczów.
+Używana do testów Perswazji, Oszustwa, Zastraszania, Występu.
+
+=== UMIEJĘTNOŚCI (SKILLS) ===
+Każda umiejętność jest związana z jednym atrybutem:
+
+Siła: Athletics (Atletyka) — wspinaczka, skoki, pływanie w trudnych warunkach.
+
+Zręczność: Acrobatics (Akrobatyka) — równowaga, wywijanie się z chwytów.
+Sleight of Hand (Zręczność Rąk) — kieszonkowanie, ukrywanie przedmiotów.
+Stealth (Skradanie) — poruszanie się po cichu, ukrywanie się.
+
+Inteligencja: Arcana (Arkana) — wiedza o magii, zaklęciach, planach.
+History (Historia) — wiedza o wydarzeniach, legendach, kronikach.
+Investigation (Badanie) — szukanie wskazówek, analizowanie.
+Nature (Natura) — wiedza o naturze, zwierzętach, roślinach.
+Religion (Religia) — wiedza o bóstwach, rytach, herezjach.
+
+Mądrość: Animal Handling (Obchodzenie ze Zwierzętami) — uspokajanie zwierząt, jazda konna.
+Insight (Wgląd) — odgadywanie intencji i kłamstw.
+Medicine (Medycyna) — stabilizowanie rannych, diagnozowanie.
+Perception (Percepcja) — pasywne i aktywne spostrzeganie otoczenia.
+Survival (Przetrwanie) — tropienie, orientacja, zdobywanie pożywienia w dziczy.
+
+Charyzma: Deception (Oszustwo) — kłamstwo, kamuflowanie prawdy.
+Intimidation (Zastraszanie) — groźby, straszenie.
+Performance (Występ) — gra muzyczna, taniec, śpiew.
+Persuasion (Perswazja) — przekonywanie, negocjacje.
+
+=== BONUS BIEGŁOŚCI (PROFICIENCY BONUS) ===
+Każda postać dodaje Bonus Biegłości do rzutów na umiejętności, w których posiada biegłość.
+Bonus Biegłości rośnie z poziomem:
+Poziomy 1-4: +2.
+Poziomy 5-8: +3.
+Poziomy 9-12: +4.
+Poziomy 13-16: +5.
+Poziomy 17-20: +6.
+
+Ekspertyza (Expertise): Bard i Łotrzyk mogą wybrać umiejętności, do których dodają podwójony Bonus Biegłości.
+
+=== PASYWNE TESTY ===
+Pasywna Percepcja (Passive Perception): 10 + bonus do Percepcji. Używana gdy MG nie chce ogłaszać rzutu (np. wykrywanie ukrytych wrogów).
+Pasywne Badanie (Passive Investigation): podobnie dla Investigation.
+
+=== TESTY ATRYBUTÓW ===
+Rzut atrybutu: 1d20 + modyfikator atrybutu (+ Bonus Biegłości jeśli biegłość).
+MG ustala DC (Difficulty Class):
+DC 5: Bardzo łatwe.
+DC 10: Łatwe.
+DC 15: Średnie.
+DC 20: Trudne.
+DC 25: Bardzo trudne.
+DC 30: Prawie niemożliwe.
+
+=== RZUTY OBRONNE (SAVING THROWS) ===
+Każda klasa ma biegłość w dwóch rzutach obronnych (np. Wojownik: STR i CON).
+Rzut obronny: 1d20 + modyfikator atrybutu (+ Bonus Biegłości jeśli biegłość w tym rzucie).
+Używane gdy zaklęcie, trucizna lub efekt środowiskowy zagraża postaci.
+
+=== ATUT (FEAT) ===
+Atuty to opcjonalne specjalne zdolności, wybierane zamiast Improvement Atrybutu (co zwykle zdobywa się na 4., 8., 12., 16. i 19. poziomie).
+
+Alert: +5 do Inicjatywy, nigdy nie może być zaskoczona, brak zalety na ataki ukrytego wroga.
+Athlete: +1 STR lub DEX, wstawanie kosztuje tylko 5 stóp ruchu, wspinaczka bez wady.
+Actor: +1 CHA, zaleta na Decepcji i Występie gdy wcielasz się w postać, można naśladować głosy.
+Charger: po Dash można zaatakować bonusową akcją lub odepchnąć.
+Crossbow Expert: ignoruje Loading, brak wady dystansowej w starciu wręcz, bonusowy atak lekką kuszą.
+Dual Wielder: +1 KP, dwójbroń bez wymogu Light, inna broń w każdej ręce.
+Dungeon Delver: Zaleta na Percepcję i Badaniu pułapek, zaleta na rzuty obronne od pułapek, ruch przez trudne tereny bez zwalniania.
+Elemental Adept: zaklęcia wybranego żywiołu ignorują odporność (nie immunitet), minimalna kość 2.
+Great Weapon Master: gdy krytyk lub zabicie bonusowy atak; -5 do ataku za +10 obrażeń.
+Healer: Healer's Kit leczy 1d6+4+poziom, bonus stabilizowania, raz na odpoczynek na cel.
+Inspiring Leader: 10 min przemowy daje sojusznikom tymczasowe KŻ = poziom + mod. CHA.
+Lucky: 3 punkty szczęścia dziennie — przerzut ataku, testu lub rzutu obronnego, lub narzucenie wady wrogowi.
+Mage Slayer: reakcja na zaklęcie rzucane obok ciebie = atak; zaleta na rzuty obronne kontra zaklęcia w pobliżu.
+Mobile: +10 stóp prędkości, po ataku w turze melee wróg nie dostaje Opportunity Attack.
+Polearm Master: bonusowy atak trzonkiem; Opportunity Attack gdy wróg wchodzi w zasięg.
+Resilient: +1 do atrybutu, biegłość w rzucie obronnym tego atrybutu.
+Sentinel: Opportunity Attacks zatrzymują cel (prędkość 0); reakcja na atak sojusznika.
+Sharpshooter: ignoruje zasięg utrudniony i półosłonę; -5 do ataku za +10 obrażeń.
+Shield Master: bonusowa akcja pchnąć tarczą; zaleta na ZRĘ rzuty obronne.
+Skilled: biegłość w trzech umiejętnościach lub narzędziach.
+Spell Sniper: podwój zasięg zaklęć atakujących, ignoruje półosłonę i trójćwierćosłonę, +cantrip.
+Tavern Brawler: +1 STR lub CON, biegłość broni bezorężnej, uderzenie pięścią jako bonusowa akcja po ataku.
+Tough: +2 HP na poziom (retroaktywne).
+War Caster: zaleta na Koncentrację, można rzucić zaklęcie jako Opportunity Attack, gesty z bronią/tarczą.
+
+=== ODPOCZYNEK (REST) ===
+Krótki Odpoczynek (Short Rest): minimum 1 godzina relaksu. Można wydać Kości Życia (Hit Dice) by odratować się.
+Długi Odpoczynek (Long Rest): minimum 8 godzin, max 6 godzin snu. Odradza całkowite KŻ, połowę Kości Życia, resetuje większość dziennych zdolności i zaklęcia.
+Można mieć tylko jeden Długi Odpoczynek w ciągu 24 godzin.
+
+=== POZIOMY I AWANS ===
+Postaci zdobywają Punkty Doświadczenia (XP) za pokonywanie wrogów, rozwiązywanie problemów i osiąganie celów.
+Alternatywnie: Milestone Leveling — MG przyznaje poziomy w kluczowych momentach fabuły.
+Maksymalny poziom: 20.
+Nowy poziom: dodatkowe KŻ (kość + mod. CON), nowe zdolności klasowe, wzrost Bonusu Biegłości co 4 poziomy, Improvement Atrybutu (ASI) lub Feat.
+
+Kamienie milowe XP:
+Poziom 1-2: 0-300 XP.
+Poziom 2-3: 300-900 XP.
+Poziom 3-4: 900-2700 XP.
+Poziom 4-5: 2700-6500 XP.
+Poziom 5 to wielki przełom — klasy atakujące zdobywają Extra Attack, zaklęcia przechodzą na 3. krąg.
+
+=== INTERAKCJE SPOŁECZNE ===
+Testy Charyzmy w interakcjach:
+Perswazja: przekonanie kogoś do czegoś uczciwie — negocjacje, prośby, argumenty.
+Oszustwo: kłamstwo, maskowanie prawdy, bluff.
+Zastraszanie: groźby, straszenie, wymuszanie.
+Występ: rozrywka, śpiew, recytacja, taniec.
+Wgląd: określenie intencji, wykrycie kłamstwa lub emocji.
+
+Postacie niezależne (NPC) mają nastawienie: Przyjazne, Neutralne, Wrogie.
+Nastawienie można zmienić udanymi testami umiejętności lub czynami.
+Niektórzy NPC mają Bierność (Indifference) — wymagają dodatkowej motywacji by się angażować.

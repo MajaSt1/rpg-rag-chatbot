@@ -1,0 +1,123 @@
+ZASADY WALKI W DUNGEONS & DRAGONS 5. EDYCJA
+
+=== INICJATYWA I KOLEJNOŚĆ WALKI ===
+Gdy dochodzi do walki, wszyscy uczestnicy rzucają na Inicjatywę: 1d20 + modyfikator ZRĘ.
+Walka przebiega w rundach — jedna runda = ok. 6 sekund czasu gry.
+W rundzie każdy działa w kolejności malejącej Inicjatywy.
+Przy remisie: stworzonko gracza działa przed stworzeniami MG, lub MG decyduje o kolejności.
+Niespodzianka (Surprise): jeśli strona nie jest świadoma ataku, pierwsza runda jest dla niej niespodziankową — tracą turę, nie mogą się ruszać ani działać.
+
+=== TURA POSTACI ===
+W swojej turze każda postać może:
+- Akcja (Action): atak, rzucenie zaklęcia, sprintem (Dash), wycofanie (Disengage), ukrycie (Hide), pomoc (Help), Dodge, szukanie (Search), użycie przedmiotu, zaskoczenie (Ready), inne.
+- Bonusowa Akcja (Bonus Action): dostępna tylko z określonych cech klasowych lub zaklęć. Nie można jej użyć jako akcji.
+- Ruch (Movement): do pełnej prędkości, można rozbić na kawałki przed i po akcji.
+- Reakcja (Reaction): jedna reakcja na całą RUNDĘ (nie turę) — np. Okazjonalny Atak, Shield, Counterspell.
+
+Akcja Atak (Attack Action): wykonujesz jeden atak bronią lub bez broni. Klasy z Extra Attack mogą wykonać 2 lub więcej ataków jedną akcją Ataku.
+
+=== RZUT NA ATAK ===
+Rzut na atak: 1d20 + bonus biegłości (jeśli biegłość z broni/zaklęciem) + odpowiedni mod. atrybutu.
+Broń melee: zazwyczaj STR lub DEX (finesse).
+Broń dystansowa: zazwyczaj DEX.
+Zaklęcia ataku: INT, WIS lub CHA (zależy od klasy).
+Wynik rzutu porównuje się z KP celu. Wynik >= KP = trafienie.
+Naturalna 20 (nat20): zawsze trafienie — krytyczne. Podwaja kości obrażeń.
+Naturalna 1 (nat1): zawsze pudło — niezależnie od modyfikatorów.
+
+=== OBLICZANIE OBRAŻEŃ ===
+Po trafieniu: rzut kością obrażeń broni + modyfikator atrybutu (STR dla melee, DEX dla finesse/dystansowych).
+Krytyczne trafienie: rzucaj dwa razy tyle kości obrażeń.
+Obrażenia od ognia/zimna/pioruna itp.: sprawdź odporności i podatności celu.
+
+=== KLASA PANCERZA (ARMOR CLASS - KP) ===
+KP bez zbroi: 10 + mod. ZRĘ (chyba że cecha klasowa zmienia bazę).
+Lekka zbroja: baza KP + mod. ZRĘ (bez ograniczenia).
+Średnia zbroja: baza KP + mod. ZRĘ (max +2).
+Ciężka zbroja: stała KP, brak modyfikatora ZRĘ. Wymaga STR i narzuca wadę na Skradanie.
+Tarcza: +2 do KP.
+
+Typy zbroi i ich bazowe KP:
+Padded/Leather: 11/11 (lekka).
+Studded Leather: 12 (lekka).
+Hide: 12 (średnia).
+Chain Shirt: 13 (średnia).
+Scale Mail: 14 (średnia).
+Breastplate: 14 (średnia).
+Half Plate: 15 (średnia).
+Ring Mail: 14 (ciężka).
+Chain Mail: 16 (ciężka) — wymaga STR 13.
+Splint: 17 (ciężka) — wymaga STR 15.
+Plate: 18 (ciężka) — wymaga STR 15.
+
+=== PRZEWAGA I WADA ===
+Zaleta (Advantage): rzucasz dwa d20 i używasz wyższego wyniku.
+Wada (Disadvantage): rzucasz dwa d20 i używasz niższego wyniku.
+Zalety i wady się anulują — niezależnie od liczby, jedno z każdego = rzut normalny.
+Leżący (Prone): ataki melee mają zaletę, dystansowe — wadę. Wstanie kosztuje połowę ruchu.
+Niewidomy/Niewidzialny: gdy atakujesz kogoś niewidocznego — wada. Gdy atakujesz kogoś ślepego — zaleta.
+
+=== OKAZYJNY ATAK (OPPORTUNITY ATTACK) ===
+Gdy wrogi stworzenie widoczne dla ciebie opuszcza twój zasięg bez użycia akcji Disengage, możesz wykonać reakcję (1 atak bronią melee).
+Można temu zapobiec używając Disengage, Misty Step lub innych zdolności.
+
+=== STAN ŚMIERCI (DEATH SAVING THROWS) ===
+Gdy postać gracza spada do 0 KŻ: nie jest martwa, lecz nieprzytomna i rzuca rzuty obronne na śmierć na początku każdej tury.
+1d20 bez modyfikatorów: 10+ = sukces, 9- = porażka.
+3 sukcesy: postać się stabilizuje (0 KŻ, nie rzuca już).
+3 porażki: postać umiera.
+Nat20: postać odzyskuje 1 KŻ i wstaje.
+Nat1: liczy się jako dwa porażki.
+Trafienie nieprzytomnej postaci: dodaje 1 porażkę (trafienie z dystansu) lub 2 porażki (trafienie melee).
+Inni mogą stabilizować postać akcją medyczną (Medycyna DC 10).
+
+=== LECZENIE ===
+Spell leczące działają natychmiastowo.
+Kości życia (Hit Dice): podczas krótkiego odpoczynku (1 godzina) postać może wydawać kości życia by odratować się (rzuca kość + mod. CON).
+Długi odpoczynek (8 godzin): odzyskuje wszystkie KŻ, połowę kości życia, i resetuje większość zdolności.
+Krótki odpoczynek (1 godzina): odzyskuje zasoby zależne od klasy (np. Warlok sloty, Wojownik Action Surge co krótki odpoczynek, Barbarzyńca Rage).
+
+=== ZASIĘG I RUCH ===
+Zasięg broni: standardowe oręże mają zasięg 5 stóp. Broń z opisem Reach — 10 stóp.
+Ruch w trudnym terenie: każda stopa kosztuje 2 stopy ruchu.
+Przeskakiwanie: dystans skoku poziomego = wynik STR lub połowa ze stojącego miejsca.
+Pływanie i wspinaczka: każda stopa kosztuje 2 stopy ruchu (chyba że masz prędkość pływania/wspinaczki).
+
+=== OSŁONA (COVER) ===
+Osłona Połowiczna: +2 do KP i ZRĘ rzutów obronnych.
+Osłona Tróćwierciowa: +5 do KP i ZRĘ rzutów obronnych.
+Pełna Osłona: nie można być celem ataku ani zaklęcia (ale efekty obszarowe nadal działają).
+
+=== SPECJALNE AKCJE BOJOWE ===
+Grapple (Chwyt): jako jeden z ataków przy akcji Ataku. Rzut Athletics gracza vs Athletics/Acrobatics celu. Sukces: cel jest Chwycony (prędkość 0). Można poruszać się z chwyconą istotą (prędkość zmniejszona o połowę).
+
+Shove (Popchnięcie): jako jeden z ataków. Rzut Athletics vs Athletics/Acrobatics. Sukces: cel jest Prone lub odsunięty o 5 stóp.
+
+Disarm (Rozbrojenie): opcjonalna zasada. Atak bronią lub z atakiem. Cel zdaje Athletics/Acrobatics vs twój rzut ataku. Porażka: upuszcza przedmiot.
+
+=== TYPY OBRAŻEŃ I ODPORNOŚCI ===
+Fizyczne: Przeszywające, Rąbiące, Miażdżące.
+Elementy: Ogień, Zimno, Błyskawica, Grzmot, Kwas, Trucizna.
+Magiczne: Nekrotyczne, Promienne, Siłowe, Psychiczne.
+
+Odporność (Resistance): połowa obrażeń danego typu.
+Podatność (Vulnerability): podwójne obrażenia danego typu.
+Immunitet (Immunity): żadne obrażenia danego typu.
+Ważne: Odporność i Podatność nie mnożą się — oblicza się je po zsumowaniu wszystkich kości.
+
+=== WARUNKI (CONDITIONS) ===
+Blinded (Oślepiony): wada na ataki, wrogowie mają zaletę; nie widzi, upada automatycznie testy Percepcji.
+Charmed (Zauroczony): nie można atakować źródła uroku, to źródło ma zaletę na CHA testy.
+Deafened (Ogłuszony): nie słyszy, wada na testy Percepcji słuchu.
+Frightened (Wystraszony): wada na testy i ataki gdy źródło strachu w zasięgu; nie może zbliżać się do źródła.
+Grappled (Chwycony): prędkość 0.
+Incapacitated (Niezdolny): nie może działać ani używać reakcji.
+Invisible (Niewidzialny): nie można dostrzec bez specjalnych zmysłów; ataki ma z zaletą, ataki na niego z wadą.
+Paralyzed (Sparaliżowany): niezdolny, nie może się ruszać ani mówić, wada na STR/DEX rzuty obronne, ataki melee automatycznie krytyczne.
+Petrified (Skamieniały): Sparaliżowany + ważenie ×10 + immunitet na trucizny i choroby.
+Poisoned (Zatruty): wada na ataki i testy umiejętności.
+Prone (Leżący): wada na ataki; ataki melee z zaletą, dystansowe z wadą; poruszanie się kosztuje połowę dystansu.
+Restrained (Unieruchomiony): prędkość 0, wada na ataki i ZRĘ rzuty obronne, atakujący mają zaletę.
+Stunned (Ogłuszony poważnie): Niezdolny + nie może się poruszać + wada STR/DEX rzutów obronnych + ataki z zaletą.
+Unconscious (Nieprzytomny): jak Stunned + leży.
+Exhaustion (Wyczerpanie): poziomowy system od 1 do 6 (6 = śmierć), ogranicza zdolności bojowe.

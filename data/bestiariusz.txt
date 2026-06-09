@@ -1,0 +1,171 @@
+BESTIARIUSZ — POTWORY W DUNGEONS & DRAGONS 5. EDYCJA
+
+=== SYSTEM WYZWANIA (CHALLENGE RATING — CR) ===
+CR (Challenge Rating) to wskaźnik trudności potwora dla grupy czterech graczy.
+CR 0: trywialne stworzenia — szczury, kraby, baranki.
+CR 1/8 — 1/4: słabe potwory odpowiednie na 1. poziom.
+CR 1/2 — 1: umiarkowane wyzwanie dla grup 1-2 poziomu.
+CR 2-5: odpowiednie dla grup 3-6 poziomu.
+CR 6-10: poważne wyzwania dla doświadczonych grup.
+CR 11-16: dla bohaterów wyższych poziomów (9-14).
+CR 17-20: elitarne stworzenia, prawie demibogowie.
+CR 21-30: stworzenia legendarne — smoły, bogowie, starożytne demony.
+
+Punkty Doświadczenia (XP) są przyznawane za CR:
+CR 1/8 = 25 XP, CR 1/4 = 50 XP, CR 1/2 = 100 XP.
+CR 1 = 200 XP, CR 5 = 1,800 XP, CR 10 = 5,900 XP, CR 20 = 25,000 XP.
+
+=== HUMANOIDALNI PRZECIWNICY ===
+Bandyta (Bandit) — CR 1/8:
+Punkty życia: 11 (2d8+2). KP: 12 (skórzana). Prędkość: 30 stóp.
+Atrybuty: STR 11, DEX 12, CON 12, INT 10, WIS 10, CHA 10.
+Atak: Scimitar +3 1d6+1 rąbiące lub Crossbow +3 1d6+1 przeszywające.
+Taktyka: walczą w grupach, uciekają gdy traci sojusznicy.
+
+Kapitan Bandytów (Bandit Captain) — CR 2:
+Punkty życia: 65 (10d8+20). KP: 15 (studiowana skóra).
+Atrybuty: STR 15, DEX 16, CON 14, INT 14, WIS 11, CHA 14.
+Ataki: Multiattack (3 uderzenia: 2 szable, 1 sztylet). Parry (reakcja +2 KP).
+Niebezpieczny przeciwnik dla grup 1-2 poziomu.
+
+Rycerz (Knight) — CR 3:
+Punkty życia: 52 (8d8+16). KP: 18 (plate). Prędkość: 30 stóp.
+Cechy: Brave (zaleta na rzuty obronne przeciw strachu).
+Ataki: Multiattack (2 ataki greatsword 2d6+3) lub Heavy Crossbow +2 1d10.
+Przysięgłość (Leadership): bonusowa akcja, sojusznicy w 30 stopach mogą dodać 1d4 do jednego ataku lub rzutu.
+
+=== NIEUMARLI (UNDEAD) ===
+Szkielet (Skeleton) — CR 1/4:
+Punkty życia: 13 (2d8+4). KP: 13 (odłamki zbroi, naturalny pancerz).
+Immunitet: trucizna, psychika. Odporna na przeszywające.
+Atak: Shortsword +4 1d6+2 lub Shortbow +4 1d6+2.
+Słabość: obrażenia od grzmotu.
+
+Zombie (Zombie) — CR 1/4:
+Punkty życia: 22 (3d8+9). KP: 8. Prędkość: 20 stóp.
+Cechy: Undead Fortitude — gdy spada do 0 KŻ, zdaje KON DC 5 + obrażenia z uderzenia lub odzyska 1 KŻ (nie przy obrażeniach promiennych ani krytycznych).
+Atak: Slam +3 1d6+1 miażdżące.
+
+Ghoul (Ghoul) — CR 1:
+Punkty życia: 22 (5d8). KP: 12.
+Cechy: Claw Attack (DC 10 KON lub Sparaliżowany na 1 minutę — nie działa na elfy i nieumarłych).
+Ataki: Bite +2 2d6+2, Claws +4 2d4+2.
+
+Lich (Lisz) — CR 21:
+Jeden z najgroźniejszych nieumarłych. Arcymag, który osiągnął nieśmiertelność poprzez rytuał.
+Punkty życia: 135 (18d8+54). KP: 17 (natural armor).
+Immunitet: zimno, elektryczność, nekrotyczne, trucizna. Odporność na zimno, elektryczność i niemagiczne obrażenia fizyczne.
+Rzuty obronne: +11 KON, +8 INT, +9 MĄD.
+Cechy legendarne: 3 akcje legendarne na rundę (Cast Cantrip, Paralyzing Touch, Frighten Gaze).
+Filakteria: Lisz posiada filakterię (pojemnik z częścią duszy). Bez zniszczenia filakterii Lisz odradza się po kilku dniach.
+Zaklęcia: Lisz ma pełny arsenał zaklęć Czarodzieja najwyższego poziomu.
+
+Wampir (Vampire) — CR 13:
+Punkty życia: 144 (17d8+68). KP: 16 (natural armor).
+Odporność na niemagiczne obrażenia fizyczne, nekrotyczne.
+Słabości: biegnie przez słońce (20 obrażeń promiennych na turę), słabo reaguje na czosnek, święconą wodę.
+Cechy: Shapechanger (przemiana w mgłę, bat, lub wilka), Spider Climb, Charm, Children of the Night.
+Ugryźć (Bite): 1d6+4 przeszywające + 3d6 nekrotycznych, cel HP max zmniejszone.
+Regeneracja: odzyska 20 KŻ na początku tury jeśli ma 1+ KŻ (nie działa po obrażeniach promiennych lub od wbicia pala).
+
+=== SMOKI (DRAGONS) ===
+Smoczy Wyrostek (Dragon Wyrmling):
+Mały smok, CR 1-4 w zależności od koloru.
+Oddech: stożek lub linia elementalna, kości obrażeń skalują się z wiekiem.
+
+Młody Smok (Young Dragon) — CR 7-10:
+Duże potwory z lotnictwem, potężnym atakiem pazurami i oddechu.
+
+Dorosły Smok (Adult Dragon) — CR 13-17:
+Ogromne, teroryzujące, ma Legendary Actions i Lair Actions.
+
+Starożytny Smok (Ancient Dragon) — CR 20-24:
+Jeden z najpotężniejszych przeciwników. Gargantuczny, legendarny, z własną Siedliskiem (Lair) dającym dodatkowe zdolności.
+
+Czerwony Starożytny Smok (Ancient Red Dragon) — CR 24:
+Punkty życia: 546 (28d20+252). KP: 22 (natural armor). Prędkość: 40 stóp pieszo, 80 stóp latając.
+Odporność: ogień. Immunitet: ogień.
+Cechy legendarne: 3 akcje legendarne.
+Oddech Ognia: stożek 90 stóp, 26d6 od ognia (DC 24 ZRĘ, połowa przy udanym).
+Atak wielokrotny: 1 atak kąsaniem + 2 pazurami.
+
+Smok Złoty (Adult Gold Dragon) — CR 17:
+Potężny smok dobra, sojusznik możliwy jeśli bohaterowie zasłużą na szacunek.
+Oddechy: Fire Breath (stożek 60 stóp) lub Weakening Breath (stożek 60 stóp, DC 19 STR lub wada na ataki STR, testy i rzuty obronne).
+Cechy: Amphibious (oddycha pod wodą), Legendary Resistance (3x dziennie).
+
+=== DEMONY I DIABŁY ===
+Imp (Diabełek) — CR 1:
+Małe stworzenie używane jako familiar przez warloki i magów.
+Punkty życia: 10 (3d4+3). KP: 13 (natural armor).
+Cechy: Shapechanger, Invisibility, Devil's Sight.
+Oporność na niemagiczne obrażenia fizyczne (nie ze srebrnej broni).
+
+Quasit (Kwazyp) — CR 1:
+Demoniczny odpowiednik Imp.
+Ataki: jadowita kąsanie DC 10 KON lub 2d4 obrażeń trucizny.
+Cechy: Shapechanger (pająk, ropucha, kruk), Invisibility, Scare.
+
+Balor (Balor) — CR 19:
+Jeden z najpotężniejszych demonów. Archidemon z ognistym biczem.
+Punkty życia: 262 (21d10+147). KP: 19 (natural armor).
+Immunitet: elektryczność, ogień, trucizna. Odporność na zimno i niemagiczne fizyczne.
+Ataki: Multiattack — longsword (3d8+14 + 3d8 ogień) + whip (2d6+14 + 3d6 elektryczności, pull 25 stóp).
+Death Throes: eksplozja przy śmierci 20d6 ogień, DC 20 DEX.
+
+Pit Fiend (Tyran Otchłani) — CR 20:
+Najpotężniejszy diabeł (poza Władcami Warstw).
+Punkty życia: 300 (24d10+168). KP: 19.
+Immunitet: ogień, trucizna. Odporność: zimno, niemagiczne fizyczne.
+Magic Resistance: zaleta na rzuty obronne przeciw zaklęciom.
+Cechy: Fear Aura 20 stóp, Wall of Fire.
+
+=== POTWORY NATURALNE ===
+Niedźwiedź Brunatny (Brown Bear) — CR 1:
+Punkty życia: 34 (4d10+12). KP: 11 (natural armor).
+Ataki: Multiattack (Kąsanie 2d6+5, Pazury 2d6+5). Powalenie (Shove) przy pazurach.
+Dobry przeciwnik dla graczy 1 poziomu.
+
+Troll (Troll) — CR 5:
+Punkty życia: 84 (8d10+40). KP: 15 (natural armor).
+Słabość: ogień i kwas — Troll nie regeneruje po tych obrażeniach.
+Cechy: Regeneration — odzyska 10 KŻ na początku tury jeśli ma 1+ KŻ.
+Ataki: Multiattack (kąsanie + 2 pazury, wszystkie 2d6+4).
+
+Beholder (Beholer) — CR 13:
+Latająca kulista bestia z centralnym okiem i 10 oczami na łodygach — każda strzela innym promieniem.
+Punkty życia: 180 (19d10+76). KP: 18 (natural armor).
+Cechy: Antimagic Cone — centralne oko emituje stożek antymagii. Legendarna Akcja.
+Promienie oczu: Charm Ray, Paralyzing Ray, Fear Ray, Slowing Ray, Enervation Ray, Telekinetic Ray, Sleep Ray, Petrification Ray, Disintegration Ray, Death Ray.
+
+Mindflayer (Łamacz Umysłów) — CR 7:
+Przerażający humanoid z ośmiornicowatą głową, specjalizujący się w atakach psionicznych.
+Punkty życia: 71 (13d8+13). KP: 15 (natural armor).
+Telepathic Bond: Biegłość w telepath na 30 stóp.
+Mind Blast: stożek 60 stóp, DC 15 INT lub 4d8+4 psychicznych + Stunned na 1 minutę.
+Extract Brain: na Stunned celu grabs i extrakuje mózg — natychmiastowa śmierć przy 0 KŻ.
+
+=== STWORZENIA FAERUN ===
+Minotaur (Minotaur) — CR 3:
+Punkty życia: 114 (12d10+48). KP: 14 (natural armor).
+Cechy: Charge (pęd 10+ stóp przed atakiem, dodatkowe 2d8 jeśli trafi, Push DC 14).
+Ataki: Gore +6 2d8+4, Greataxe +6 2d12+4.
+Labyrinthine Recall: pamięta doskonale każdą ścieżkę, którą przeszedł.
+
+Kuo-Toa (Kuo-Toa) — CR 1/4:
+Rybiopodobni humanoidy żyjący głęboko pod ziemią, czczący szalone bóstwa.
+Cechy: Amphibious, Otherworldly Perception, Slippery.
+Ataki: Spear +2 1d6 lub Bite +0 1d4.
+Kuo-Toa Archpriest (CR 6) to groźny kapłan z potężnymi zaklęciami i zdolnością wskrzeszania bóstwa.
+
+=== KATEGORIE STWORZEŃ ===
+Bestia (Beast): naturalne zwierzęta, pozbawione magii.
+Humanoid (Humanoid): dwunożne inteligentne rasy.
+Nieumarły (Undead): stworzenia zmartwychwstałe: zombie, wampiry, liszę.
+Demon (Fiend): piekielne stworzenia z Dolnych Płaszczyzn: demony (Abyss), diabły (Gehenna, Nine Hells).
+Niebiański (Celestial): anielskie stworzenia z Górnych Płaszczyzn.
+Fey (Fey): magiczne stworzenia z Feywild — pixie, dryady, nimfy.
+Konstrukt (Construct): stworzenia magicznie stworzone — golemy, animatroniczne pancerze.
+Gigant (Giant): ogromne humanoidy: Ogry, Cyklopowie, Trolle, Giganci Chmurni.
+Smok (Dragon): smoki i ich krewni — drakes, koboldowie (formalnie smoki w 5e), hydry.
+Rój (Swarm): setki małych stworzeń zachowujące się jak jedna całość — szczury, owady.

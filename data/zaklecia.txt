@@ -1,0 +1,146 @@
+ZAKLĘCIA W DUNGEONS & DRAGONS 5. EDYCJA
+
+=== STRUKTURA ZAKLĘĆ ===
+Każde zaklęcie posiada następujące parametry:
+- Poziom (0-9): kanotriki to poziom 0, najpotężniejsze zaklęcia to poziom 9.
+- Czas rzucania: akcja, bonusowa akcja, reakcja, 1 minuta, 10 minut, 1 godzina.
+- Zasięg: dotyk, 30/60/90/120/150 stóp, wzrok, Samego siebie.
+- Komponenty: Werbalne (V), Somatyczne (S), Materialne (M).
+- Czas trwania: natychmiastowe, Koncentracja (maksymalny czas), godziny, dni.
+- Szkoła: Abjuracja, Wywołanie, Wróżbiarstwo, Zauroczenie, Zaklinanie, Iluzja, Nekromancja, Transmutacja.
+
+=== SZKOŁY MAGII ===
+Abjuracja (Abjuration): zaklęcia ochronne, bariery, wykrywanie magii, rozpraszanie magii.
+Wywołanie (Conjuration): przywołanie stworzeń, teleportacja, tworzenie obiektów z powietrza.
+Wróżbiarstwo (Divination): wykrywanie informacji, wróżenie, widzenie przyszłości i przeszłości.
+Zauroczenie (Enchantment): wpływ na umysły, kontrolowanie wrogów, wprawianie w miłość lub strach.
+Zaklinanie (Evocation): moc żywiołów — ogień, błyskawice, lód, grzmoty. Najpopularniejsze zaklęcia obrażeń.
+Iluzja (Illusion): tworzenie fałszywych obrazów, dźwięków i dotykowych złudzeń.
+Nekromancja (Necromancy): manipulacja siłami życia i śmierci, wskrzeszanie, osłabianie.
+Transmutacja (Transmutation): zmiana właściwości obiektów i istot.
+
+=== KANOTRIKI (CANTRIPS — POZIOM 0) ===
+Kanotriki są zaklęciami darmowymi — rzuca się je dowolną liczbę razy bez zużywania slotów.
+
+Eldritch Blast (Wywołanie): podstawowa cantrip Warloka. Zasięg 120 stóp, 1d10 obrażeń siłowych. Skaluje się do 2 promieni na 5. poziomie, 3 na 11., 4 na 17. poziomie. Można modyfikować Eldritch Invocations.
+
+Firebolt (Zaklinanie): najpopularniejsza cantrip ofensywna. Zasięg 120 stóp, 1d10 obrażeń od ognia. Skaluje: 2d10 na 5. poziomie, 3d10 na 11., 4d10 na 17.
+
+Mage Hand (Przywołanie): tworzy widmową rękę, która może podnosić obiekty do 10 funtów, otwierać drzwi i szuflady, ale nie atakować ani rzucać zaklęć.
+
+Prestidigitation (Transmutacja): różnorodne sztuczki magiczne — zapalanie/gaszenie małych ogni, czyszczenie, tworzenie zapachów, tworzenie niewidzialnych symboli. Pusta przez 1 minutę.
+
+Sacred Flame (Zaklinanie): klerycka cantrip — cel musi zdać rzut obronny ZRĘ lub wziąć 1d8 obrażeń promiennych. Ignoruje osłonę.
+
+Shocking Grasp (Zaklinanie): dotyk, 1d8 obrażeń elektrycznych, zaleta jeśli cel nosi metalową zbroję. Cel nie może używać reakcji do końca swojej następnej tury.
+
+Toll the Dead (Nekromancja): cel musi zdać rzut obronny MĄD lub wziąć 1d8 nekrotycznych (1d12 jeśli nie ma pełni KŻ).
+
+Vicious Mockery (Zauroczenie): Bardowski atak słowny. Cel zdaje MĄD lub bierze 1d4 psychicznych i ma wadę na następny atak.
+
+=== ZAKLĘCIA 1. KRĘGU ===
+Cure Wounds (Zaklinanie): leczy 1d8 + mod. Czarowania punktów życia przez dotyk. Skaluje się z wyższymi slotami: +1d8 na slot powyżej 1.
+
+Thunderwave (Zaklinanie): fala siły w sześcianie 15 stóp od siebie. Każdy wewnątrz zdaje KON lub bierze 2d8 grzmotu i jest odepchnięty o 10 stóp. Tworzy głośny huk słyszalny na 300 stóp.
+
+Magic Missile (Zaklinanie): trzy strzałki siłowe trafiające automatycznie — każda zadaje 1d4+1. Za wyższy slot: +1 strzałka na poziom. Nie można chybić tym zaklęciem.
+
+Sleep (Zauroczenie): usypia stworzenia w promieniu 20 stóp bazując na aktualnych KŻ (rzuca się 5d8 i sumuje KŻ celu — cel z najmniejszą KŻ zasypia pierwszy). Nie działa na nieumarłych i istoty nieodczuwające.
+
+Charm Person (Zauroczenie): cel zdaje MĄD lub traktuje cię jak przyjaciela. Trwa 1 godzinę lub do końca walki, potem wie, że był zaczarowany. Skaluje: jeden dodatkowy cel na slot powyżej 1.
+
+Detect Magic (Wróżbiarstwo): przez 10 minut percepcja wszelkiej magii w promieniu 30 stóp — widzi aury i szkoły magii.
+
+Shield (Abjuracja): reakcja, +5 do KP do następnej tury i odporność na Magic Missile. Jedna z najlepszych zaklęć obronnych.
+
+Healing Word (Zaklinanie): bonusowa akcja, leczy 1d4 + mod. Czarowania na zasięgu 60 stóp. Mniej leczenia niż Cure Wounds, ale bonusowa akcja.
+
+Hex (Zauroczenie): Warlok. Cel ma wadę na testy wybranego atrybutu i bierze +1d6 nekrotycznych przy każdym trafieniu. Trwa godzinę (Koncentracja), można przenosić po śmierci celu.
+
+Hunters Mark (Wróżbiarstwo): Łowca. Oznacza cel — +1d6 obrażeń od ataków na cel, zaleta na Percepcję i Przetrwanie by go śledzić. Można przenosić.
+
+=== ZAKLĘCIA 2. KRĘGU ===
+Fireball — poczekaj, to 3. krąg. Przy 2. kręgu:
+
+Scorching Ray (Zaklinanie): trzy promienie ognia (każdy +mod. CZARataku, 2d6 ogień). Za wyższy slot: +1 promień na poziom. Można skupić wszystkie na jednym celu.
+
+Misty Step (Przywołanie): bonusowa akcja, teleportacja do 30 stóp do miejsca, które się widzi. Jeden z najważniejszych ruchów taktycznych.
+
+Hold Person (Zauroczenie): humanoid zdaje MĄD co turę lub jest sparaliżowany. Sparaliżowany = automatyczne trafienia są krytyczne (!). Koncentracja, 1 minuta.
+
+Invisibility (Iluzja): cel staje się niewidzialny na 1 godzinę lub do czasu ataku/rzucenia zaklęcia. Skaluje: +1 cel na slot.
+
+Spider Climb (Transmutacja): chodzenie po ścianach i sufitach z pełną prędkością na 1 godzinę. Koncentracja.
+
+Shatter (Zaklinanie): grzmot w promieniu 10 stóp wokół punktu. 3d8 obrażeń od grzmotu, zadaje podwójne obrażenia nieożywionym obiektom i konstruktom.
+
+Spiritual Weapon (Zaklinanie): bonusowa akcja tworzy broń duchową w zasięgu 60 stóp. Bonusową akcją co turę atakuje (+mod. CZARataku, 1d8 + mod. CZAR). Nie wymaga Koncentracji!
+
+Lesser Restoration (Abjuracja): usuwa jedną chorobę, jad, oślepienie, ogłuszenie, paraliż lub zatrucie.
+
+=== ZAKLĘCIA 3. KRĘGU ===
+Fireball (Zaklinanie): punkt eksplozji w promieniu 20 stóp, każdy zdaje ZRĘ lub bierze 8d8 od ognia (połowa przy udanym rzucie). Jedna z najsławniejszych zaklęć w historii D&D.
+
+Lightning Bolt (Zaklinanie): linia 100 stóp × 5 stóp, każdy zdaje ZRĘ lub bierze 8d8 obrażeń od błyskawicy.
+
+Counterspell (Abjuracja): reakcja, automatycznie anuluje zaklęcie 3. kręgu lub niższe. Na wyższe: rzut magiczny DC 10 + poziom zaklęcia.
+
+Hypnotic Pattern (Iluzja): wirujące kolory w kostce 30 stóp. Każdy trafiony zdaje MĄD lub jest zauroczony (nie może działać) na 1 minutę. Koncentracja.
+
+Dispel Magic (Abjuracja): kończy zaklęcia na obiekcie, stworzeniu lub obszarze. Automatycznie kończy zaklęcia 3. kręgu i niższe; wyższe wymagają rzutu magicznego.
+
+Animate Dead (Nekromancja): ożywia do dwóch trupów jako zombie lub szkielet pod kontrolą rzucającego. Kontrola trwa 24 godziny, wymaga odnowienia zaklęciem lub co 24h ponawiania zaklęcia.
+
+Fly (Transmutacja): cel zyskuje prędkość lotu 60 stóp na 10 minut. Koncentracja.
+
+Haste (Transmutacja): cel jest dwukrotnie szybszy, +2 do KP, zaleta na ZRĘ rzuty obronne, dodatkowa akcja (tylko atak, Dash, Disengage, Hide, Use Object). Koncentracja, gdy skończy — cel jest wyczerpany o 1 punkt.
+
+=== ZAKLĘCIA 4. KRĘGU ===
+Greater Invisibility (Iluzja): cel jest niewidzialny nawet gdy atakuje. Zaleta do wszystkich ataków. Koncentracja, 1 minuta.
+
+Polymorph (Transmutacja): przemienia stworzenie w inne stworzenie. Cel przejmuje KŻ, KP, i umiejętności nowej formy. Gdy nowa forma umrze, wraca do starej z oryginalnymi KŻ. Koncentracja.
+
+Banishment (Przywołanie): cel zdaje CHA lub jest wygoniony. Istoty rodzime dla planu znikają na Koncentrację (max 1 minutę), a potem wracają. Istoty z innych planów są trwale wygnane po 1 minucie.
+
+Wall of Fire (Zaklinanie): ściana ognia długości 60 stóp lub okrąg o promieniu 20 stóp. 5d8 od ognia dla tych, co przez nią przejdą lub zaczną turę przy niej. Koncentracja.
+
+Dimension Door (Przywołanie): teleportacja do 500 stóp w dowolne miejsce — nawet przez ściany. Można zabrać jedną chętną istotę.
+
+Confusion (Zauroczenie): stworzenia w promieniu 10 stóp zdają MĄD lub są dezorientowane — mogą atakować losowy cel, stać w miejscu lub uciekać. Koncentracja.
+
+=== ZAKLĘCIA 5. KRĘGU ===
+Cone of Cold (Zaklinanie): stożek 60 stóp, 8d8 obrażeń od zimna (połowa przy udanym ZRĘ).
+
+Hold Monster (Zauroczenie): jak Hold Person, ale działa na dowolne stworzenie. Zdaje MĄD co turę lub jest sparaliżowane.
+
+Animate Objects (Transmutacja): ożywia do 10 małych przedmiotów lub mniej liczniejsze większe obiekty do atakowania wrogów.
+
+Cloudkill (Przywołanie): chmura trucizny 20 stóp promień, 5d8 trucizny na turę (połowa przy KON). Przemieszcza się 10 stóp co tura. Koncentracja, 10 minut.
+
+Mass Cure Wounds (Zaklinanie): leczy do 6 stworzeń w promieniu 30 stóp za 3d8 + mod. CZAR każde.
+
+Geas (Zauroczenie): cel zdaje MĄD lub musi wykonywać twoje polecenia (nie samobójcze). Trwa 30 dni (lub rok z wyższym slotem). Zadaje 5d10 psychicznych za nieposłuszeństwo.
+
+=== ZAKLĘCIA 6-9 KRĘGU (POTĘŻNE) ===
+Disintegrate (Transmutacja, 6): cel zdaje KON lub bierze 10d6+40 od siły. Przy 0 KŻ obraca się w pył — nie można go wskrzesić normalnie.
+
+Forcecage (Zaklinanie, 7): tworzy klatkę z siły (klatka z prętami) lub sześcian (solid cube). Cel uwięziony, teleportacja nie działa. Trwa 1 godzinę.
+
+Power Word Kill (Zaklinanie, 9): jedno słowo, jeden cel — jeśli ma 100 lub mniej KŻ, natychmiast umiera. Brak rzutu obronnego.
+
+Wish (Zaklinanie, 9): najpotężniejsze zaklęcie w grze. Może naśladować każde zaklęcie 8. kręgu lub niższe, albo wykonać efekt opisany słowami. Ryzyko trwałego uszkodzenia przy użyciu nie-replikującym.
+
+True Resurrection (Nekromancja, 9): wskrzesza martwego od do 200 lat. Nie potrzeba ciała. Przywraca wszystkie KŻ, kończy klątwy i choroby. Wymaga komponentu materialnego wartego 25,000 złotych.
+
+Time Stop (Transmutacja, 9): czas zatrzymuje się dla wszystkich poza rzucającym. 1d4+1 tur wyłącznych działań. Efekt kończy się gdy zaatakujesz lub dotkniesz inną istotę.
+
+=== PRZYGOTOWYWANIE ZAKLĘĆ A ZAKLĘCIA ZNANE ===
+Klasy przygotowujące zaklęcia: Kleryk, Druid, Paladyn, Czarodziej. Co dzień wybierają z pełnej listy dostępnych zaklęć.
+Klasy ze zaklęciami znymi: Bard, Łowca, Warlok, Zaklinacz. Mają stałą, ograniczoną listę zaklęć i nie mogą jej zmieniać każdego dnia.
+Bard i Łowca: zmieniają jedno zaklęcie przy awansie poziomu.
+
+=== KONCENTRACJA (CONCENTRATION) ===
+Wiele zaklęć wymaga Koncentracji — rzucający musi utrzymywać skupienie przez cały czas trwania.
+Gdy rzucający otrzymuje obrażenia, zdaje rzut obronny na Kondycję (DC 10 lub połowa obrażeń, wybierz wyższe) lub traci Koncentrację.
+W danym momencie można utrzymywać tylko jedno zaklęcie koncentracyjne.
+Cechy jak War Caster czy Resilient (CON) pomagają utrzymywać Koncentrację.

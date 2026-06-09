@@ -1,0 +1,177 @@
+POSTACIE NIEZALEŻNE, INTERAKCJE SPOŁECZNE I ROLEPLAY
+
+=== SŁYNNE NPC W FORGOTTEN REALMS ===
+
+ELMINSTER AUMAR — Mędrzec z Shadowdale:
+Rasa: Człowiek (liczy setki lat przez interwencje Mystry).
+Klasa: Czarodziej arcymistrz (poziom 20+), wybrany Mystry.
+Statystyki: nieofficjalnie ponad CR 20. Może używać zaklęć które formalnie nie istnieją.
+Osobowość: roztargniony, filozoficzny, milubi dobre piwo i tytoń. Ukrywa ogromną moc za pozorną niefrasobliwością.
+Rola: mentor przygodników, łącznik z Mystrą, pojawiający się gdy potrzeba kosmicznej mądrości.
+Wskazówka dla MG: Elminster nigdy nie powinien "ratować" drużyny. Pojawia się by dać wskazówki, nie rozwiązywać problemy.
+
+DRIZZT DO'URDEN — Mroczny Elf Wygnany:
+Rasa: Drow.
+Klasa: Ranger 16+ / Fighter.
+Towarzysze: Guenhwyvar (pantera astralna), Catti-brie, Bruenor, Wulfgar, Regis — Towarzysze Hali.
+Osobowość: honorowy, sprawiedliwy, walczący ze swoim mrocznym dziedzictwem.
+Bronie: Icingdeath i Twinkle — dwa scimitarze +2.
+Rola: najpopularniejszy bohater Forgotten Realms. Protagonista serii powieści R.A. Salvatore.
+Wskazówka: Drizzt jest chudy na starcia — zbyt znany. Lepiej jako NPC mentor lub sojusznik.
+
+LAERAL SILVERHAND — Otwarty Lord Waterdeep:
+Rasa: Człowiek.
+Klasa: Czarodziej (jeden z Siedmiu Sióstr, wybranych Mystry).
+Rola: polityczny przywódca Waterdeep, de facto najważniejszy mortal w mieście.
+Osobowość: chłodna, pragmatyczna, ale z ukrytym ciepłem. Niegdyś szalona (Kłopoty z magią).
+Ważna w: Waterdeep: Dragon Heist jako sojusznik lub przeciwnik zależnie od wyboru.
+
+JARLAXLE BAENRE — Dowódca Bregan D'aerthe:
+Rasa: Drow.
+Klasa: Rogue/Fighter, mnóstwo magicznych gadżetów.
+Osobowość: charyzmatyczny, zabawny, niebezpieczny, moralnie szary. Lubi wielkie kapelusze.
+Gadżety: każdy element stroju jest magicznym przedmiotem — kapelusz daje ptaki, plakietka daje tarczę itd.
+Rola: może być sojusznikiem, zleceniodawcą lub antagonistą zależnie od kontekstu.
+Wskazówka: Jarlaxle ZAWSZE ma własny cel. Pomaga drużynie tylko gdy mu się to opłaca.
+
+VOLOTHAMP GEDDARM (VOLO):
+Rasa: Człowiek.
+Klasa: Bard/Sage.
+Rola: autor słynnych przewodników po Faerûn ("Volo's Guide to..."), zazwyczaj niedokładnych.
+Osobowość: pewny siebie, gadatliwy, często w kłopotach przez własną nieostrożność.
+Pojawia się: w Waterdeep: Dragon Heist jako quest-giver.
+
+STRAHD VON ZAROVICH — Pan Barvii:
+Rasa: Wampir (niegdyś Człowiek).
+Klasa: Fighter/Mage (Vampire CR 15).
+Historia: Strahd zakochał się w Tatyi — dziewczynie ukochanej przez jego brata Sergeia. Gdy Sergei ożenił się z Tatyą, Strahd zawarł pakt z Mrocznymi Mocami i stał się wampirem. Tatyana skoczyła ze ściany zamku. Strahd jest skazany na wieczne czekanie i powtarzanie tej historii.
+Osobowość: arystokratyczny, inteligentny, smutny, okrutny. Nie jest jednoznacznie zły — jest tragiczną postacią.
+Taktyka: Strahd bawi się z drużyną. Zaprasza na kolację, testuje ich. Walczy dopiero gdy zmuszony.
+Słabości: słońce, Sunsword, Symbol of Ravenkind, Holy Water.
+
+SZARY MNICH (GRAY CLOAK / THE HOODED ONE):
+Tajemnicza postać pojawiająca się w wielu przygodach jako informator lub broker informacji.
+Nigdy nie walczy — wie jednak prawie wszystko.
+Motywacja: nieznana. Może być agentem Harpiarzów, może być bytem z Zewnątrz.
+
+=== MECHANIKI INTERAKCJI SPOŁECZNYCH ===
+
+SYSTEM NASTAWIENIA NPC:
+Każdy NPC ma nastawienie: Przyjazne (Friendly), Obojętne (Indifferent), Wrogie (Hostile).
+Przyjazny NPC: chętnie pomaga, może zdradzić informacje, angażuje się w rozmowę.
+Obojętny NPC: neutralny, pomaga za opłatą lub wzajemność, nie przeszkadza.
+Wrogi NPC: może zaatakować, kłamie, aktywnie utrudnia.
+
+Zmiana nastawienia poprzez:
+Udany test Perswazji lub Oszustwa.
+Wspólny wróg lub cel (kontekst fabularny).
+Pozytywna historia relacji (reputacja drużyny).
+Zapłata (Waukeen's blessing).
+Czar Charm Person lub Suggestion (magicznie, ale potem NPC może się dowiedzieć).
+
+SYSTEM REPUTACJI (opcjonalny):
+Drużyna może budować reputację w konkretnych lokacjach.
+Pozytywna reputacja: zniżki, informacje, sojusznicy.
+Negatywna reputacja: wyższe ceny, strach, wrogość.
+Sława (Renown): frakcje śledzą reputację i nagradzają wyższymi rangami i przywilejami.
+
+=== TYPY NPC DO ODGRYWANIA ===
+
+STRAŻNIK MIEJSKI (CITY GUARD):
+Motywacja: wypłata, spokój na zmianie, uniknięcie kłopotów.
+Zachowanie: podejrzliwy wobec uzbrojonych nieznajomych, łapówkobiorczy (w korupcyjnych miastach), pomocny jeśli drużyna ma pozwolenia.
+Przydatne informacje: układ ulic, ostatnie incydenty, lokalne przepisy.
+Sposób na podejście: oficjalny ton, pokazanie dokumentów lub pozwoleń.
+
+KARCZMARZ (INNKEEPER/TAVERNKEEPER):
+Motywacja: zysk, spokój w karczmie, plotki.
+Zachowanie: serdeczny wobec płacących gości, ostrożny wobec nieuzbrojonych, rezerwuar plotek.
+Informacje: kto przyszedł, kto wyszedł, lokalne plotki, gdzie szukać pracy.
+Wskazówka dla MG: karczmarz to najważniejszy NPC małego miasteczka. Wszystkie drogi przez niego.
+
+KUPIEC (MERCHANT):
+Motywacja: zysk, bezpieczny transport towarów.
+Zachowanie: negocjuje zawsze, nie ufa zbrojnym zbyt łatwo, ceni informacje o drogach.
+Negocjacje: zniżka 10-25% za udany Perswazję, może zatrudnić jako ochronę.
+
+SZLACHCIC (NOBLE):
+Motywacja: reputacja, władza, majątek rodu.
+Zachowanie: wywyższa się, traktuje niżej urodzonych z lekceważeniem, ale szanuje siłę i tytuły.
+Podejście: formalny protokół, tytulatura (Wasza Wielmożność itp.), nie poruszać tematów kompromitujących.
+Użyteczni gdy: drużyna ma reputację lub jest z dobrej rodziny.
+
+MĘDRZEC / BIBLIOTEKARZ (SAGE):
+Motywacja: wiedza, odkrycia, ciche życie badacza.
+Zachowanie: pochłonięty badaniami, odpowiada na pytania chętnie jeśli dotyczą jego specjalizacji, prosi o wzajemność (rzadki artefakt, informacja zwrotna z ekspedycji).
+Przydatny gdy: drużyna szuka informacji historycznych, arkanistycznych, o potworach.
+
+ZŁODZIEJ GILDYJNY (THIEVE'S GUILD CONTACT):
+Motywacja: zysk, lojalność wobec Gildii.
+Zachowanie: nieufny wobec nieznajomych, ostrożny w rozmowie, używa umownych gestów lub słów.
+Warunek kontaktu: rekomendacja gildyjnego członka lub odpowiedni znak rozpoznawczy.
+Może zaoferować: passy informacyjne, usługi złodziei, passy przez patrol nocny.
+
+KAPŁAN / KLERYK NPC:
+Motywacja: służba bóstwu, opieka nad wyznawcami.
+Zachowanie: chętnie leczy (za opłatą lub datek), może rzucić zaklęcia wyższego poziomu za zapłatę.
+Ceny usług: Cure Wounds (do 50 GP za rzut), Remove Curse (200 GP), Raise Dead (1000+ GP + komponent).
+Kluczowe: kapłan dobrego bóstwa NIE wyleczy kogoś kto aktywnie szkodzi jego wyznawcom.
+
+=== INTERAKCJE ZE SMIECIAMI I INNYMI INTELIGENTAMI ===
+
+SMOKI JAKO NPC:
+Inteligentne smoki zazwyczaj wolą rozmowę od walki — to o wiele ciekawsze.
+Zielone Smoki: manipulują, zbierają informacje, żądają "hołdu" (skarbu lub usługi).
+Złote/Srebrne Smoki: filozoficzne, zainteresowane losem świata, mogą stać się mentorami.
+Czerwone Smoki: pychą górą. Chcą uznania swej wyższości. Negocjacje możliwe jeśli drużyna się ukłoni.
+Zasada: smok który chce walczyć to smok który nie ma co stracić — lub jest głupi.
+
+MINDFLAYERZY JAKO NPC:
+Rasowo wyobcowani — trudni do rozmowy bez telepatii.
+Kolektywy Mindflayerów komunikują się przez udostępniony umysł (Elder Brain).
+Negocjacje: możliwe jeśli drużyna ma coś cennego (rarytasy dla Elder Brain, informacje z Zewnątrz).
+Zagrożenie: Mindflayer może czytać myśli bez zgody. Każda rozmowa to ryzyko wycieku sekretów.
+
+DROW JAKO NPC:
+Drow Powierzchniowi (wygnani lub z kultów Eilistraee): potencjalni sojusznicy, ale nieufni przez rasowy stygmat.
+Drow Underdark: zawsze grają swoją grę, lojalność jest tymczasowa i warunkowa.
+Kulturowo: kobieta w hierarchii = przywódca, mężczyzna = sługa. Mieszanie ról to prowokacja.
+
+=== TWORZENIE ŻYWYCH NPC ===
+
+ZASADA 3D NPC:
+Dobry NPC ma trzy wymiary: Chęć (co chce?), Metoda (jak to osiąga?), Sekret (co ukrywa?).
+
+PRZYKŁADOWY NPC — GARETH STARKIN (Kapitan Straży):
+Chęć: spokój w mieście, awans.
+Metoda: przestrzega prawa litery ale nie ducha, przyjmuje małe łapówki by nie komplikować.
+Sekret: jego brat jest członkiem Zhentarim. Gareth to wie ale milczy z lojalności rodzinnej.
+Tik: zawsze dotyka metalowej odznaki gdy kłamie.
+
+PRZYKŁADOWY NPC — SYLARIA MOONWHISPER (Elfii Kupiec):
+Chęć: sfinansowanie ekspedycji do ruin elfiej cywilizacji.
+Metoda: handel rzadkimi ziołami, najlepszy kontakt do rynku Underdark.
+Sekret: jest Harfiarką. Handlowe wyprawy to przykrywka szpiegowska.
+Tik: zawsze ocenia broń rozmówcy, nie może oprzeć się zbieraniu informacji.
+
+IMIONA POSTACI — GENERATORY:
+Ludzkie (Faerûn): Aldric, Beren, Cedric, Duncan, Elara, Fiona, Gareth, Hanna, Ivan, Juliet, Kira, Lyra, Marcus, Nora, Owen.
+Elfickie: Aelindra, Caladrel, Erdan, Faeshar, Galandel, Hadarai, Immeral, Jorlan, Kymil, Lamruil, Miriel, Naivara, Paelias.
+Krasnoludzkie: Aldeth, Brom, Darrak, Flint, Garumn, Harbek, Kildrak, Morgran, Orsik, Rangrim, Thordin, Ulfgar, Veit.
+Goblinoidzkie: Ahsha, Booyahg, Crix, Droop, Errk, Gix, Ihnot, Jub, Klarg, Lhupo, Mogsam, Nux, Rix, Sniv, Tok.
+
+=== FRAKCJE I NAGRODY ZA RENOMĘ ===
+
+RENOMA HARFIARZY:
+Ranga 1 (Watcher, 1 pkt): dostęp do skrytek bezpiecznych w miastach.
+Ranga 2 (Harpshadow, 3 pkt): sieć informatorów, bezpłatna noc w safe house.
+Ranga 3 (Brightcandle, 10 pkt): pożyczki od Harfiarzy, misje specjalne.
+Ranga 4 (Wise Owl, 25 pkt): przywołanie wzmocnienia (1-4 NPC harfiarzy).
+Ranga 5 (High Harper, 50 pkt): audiencja u liderów, dostęp do zasobów całej frakcji.
+
+RENOMA ZHENTARIM:
+Ranga 1 (Fang, 1 pkt): kontakt z handlarzami broni i informacjami.
+Ranga 2 (Wolf, 3 pkt): znizki na usługi Zhentarim.
+Ranga 3 (Viper, 10 pkt): eskortowanie towarów jako oficjalny agent, 10 gp dziennie.
+Ranga 4 (Ardragon, 25 pkt): dostęp do siatki szpiegów i informatorów w całym regionie.
+Ranga 5 (Black Flame, 50 pkt): reprezentacja Zhentarim, własne terytorium do zarządzania.

@@ -1,0 +1,114 @@
+PORADY DLA GRACZY I MISTRZA GRY
+
+=== TWORZENIE POSTACI ===
+Krok 1: Wybierz Rasę
+Rasa daje podstawowe premie atrybutów, specjalne zdolności i tło fabularne.
+Rozważ synergię z klasą: Krasnolud (CON) → Barbarzyńca; Elf (DEX) → Łotrzyk; Pół-Elf (CHA) → Bard/Paladyn.
+
+Krok 2: Wybierz Klasę
+Klasa definiuje Twoją rolę w drużynie i sposób gry.
+Tancerze: Wojownik, Barbarzyńca, Paladyn — wytrzymali, walczą z przodu.
+Wsparcie: Kleryk, Bard, Druid — leczą, buforują, kontrolują.
+Magowie ofensywni: Czarodziej, Zaklinacz, Warlok — obrażenia i kontrola z dystansu.
+Zwiadowcy: Łotrzyk, Łowca, Mnich — mobilni, ekspertów w odkrywaniu i skradaniu.
+
+Krok 3: Przypisz Atrybuty
+Standardowe rozdzielenie punktów: 15, 14, 13, 12, 10, 8.
+Metoda losowania: 4d6, odrzuć najniższy, 6 razy.
+Standardowy zestaw: 15, 14, 13, 12, 10, 8 (bez losowania).
+Najwyższy atrybut powinien odpowiadać kluczowemu statowi klasy.
+
+Krok 4: Wybierz Tło (Background)
+Tło daje dwie biegłości w umiejętnościach, narzędzia i wyposażenie startowe.
+Ważniejsze tło w grze może dać RP-owe przywileje: znajomości, reputację.
+Popularne tła: Soldier (Żołnierz), Noble (Szlachcic), Criminal (Przestępca), Sage (Uczony), Hermit (Pustelnik), Acolyte (Akolita), Folk Hero (Ludowy Bohater).
+
+Krok 5: Personalizacja
+Dwie cechy osobowości (traits), jeden ideał (ideal), jedno więź (bond), jedna słabość (flaw).
+Backstory: skąd pochodzi postać, co ją motywuje, kogo zostawiła za sobą?
+
+=== BUDOWANIE DRUŻYNY ===
+Idealna drużyna 4 graczy pokrywa role:
+Tank (Wytrzymały): Wojownik/Barbarzyńca/Paladyn — pochłania obrażenia.
+Healer (Lecznik): Kleryk/Druid/Bard — utrzymuje drużynę przy życiu.
+Striker (Obrażenia): Łotrzyk/Czarodziej/Zaklinacz — zadaje duże obrażenia.
+Support/Utility (Wsparcie): Bard/Druid/Czarodziej — kontrola, wsparcie, odkrywanie.
+
+Drużyny nie muszą idealnie pokrywać ról — ważne by gracze cieszyli się grą.
+
+=== MECHANIKA KONWERSACJI ===
+Trójkąt Napięcia Rozmowy: Cechy Bohatera vs. Motywy NPC vs. Stawka Sytuacji.
+Dobra rozmowa: NPC ma jasne cele, gracz rozumie co jest możliwe.
+DC testów Charyzmy:
+DC 10: neutralny NPC, prosta prośba.
+DC 15: NPC sceptyczny lub prośba kosztowna dla niego.
+DC 20: NPC wrogi, prośba bardzo niebezpieczna dla niego.
+DC 25+: NPC absolutnie przeciwny, tylko heroiczna perswazja działa.
+
+Inspiracja: MG może nagrodzić Inspirację (dającą Zaletę na jeden rzut) za szczególnie dobre odgrywanie postaci.
+
+=== MECHANIKA EKSPLORACJI ===
+Tempa poruszania się:
+Szybkie (Fast): 4 mile/godzina, 30 mil/dzień. Wada na Percepcję.
+Normalne (Normal): 3 mile/godzina, 24 mile/dzień. Bez kar.
+Powolne (Slow): 2 mile/godzina, 18 mil/dzień. Można się skradać.
+
+Nawigacja: Test Przetrwania vs. DC zależnego od terenu. Nieudany = zbłądzenie.
+Zaskoczenie przez potwory: Test Percepcji vs. Stealth napastników.
+Zbieranie zasobów: Test Przetrwania DC 15 by wyżywić drużynę w dziczy.
+
+Odpoczynek w dziczy: wymaga obozu, straży. Ataki w nocy mogą zrujnować długi odpoczynek.
+
+=== PROJEKTOWANIE LOCHÓW (DUNGEON DESIGN) ===
+Klasyczna struktura lochów:
+Wejście: bezpieczniejsze, wprowadzające. Pierwsze zagrożenia, ekspozycja lore.
+Środek: rosnące zagrożenie, zagadki, alternatywne drogi.
+Finał: kulminacyjne wyzwanie, boss fight lub moralne dylematy.
+
+Trzy filary D&D w lochach:
+Walka: potwory, pułapki, konflikty.
+Eksploracja: odkrywanie mapy, tajemnic, skarbów.
+Interakcja: NPC w lochach, frakcje, sojusze i zdrady.
+
+Rodzaje pułapek (Traps):
+Mechaniczne: strzałki, doły, kamienne głazy — testowane Percepcją i neutralizowane Thieves' Tools.
+Magiczne: Glyph of Warding, Symbol — zazwyczaj Arcana by wykryć, Dispel Magic by zneutralizować.
+Ekologiczne: żrąca substancja, brak powietrza, niestabilny teren.
+
+=== ZARZĄDZANIE WALKĄ PRZEZ MG ===
+Projektowanie napotkań (encounter balancing):
+XP Threshold na poziom (4 graczy): Easy/Medium/Hard/Deadly.
+Poziom 1: 25/50/75/100 XP per gracz.
+Poziom 5: 250/500/750/1100 XP per gracz.
+Poziom 10: 600/1200/1900/2800 XP per gracz.
+Mnożnik za wiele potworów: 2-3 potwory ×1.5, 7-10 potworów ×2.5 (ze względu na akcje).
+
+Taktyka potworów:
+Potwory inteligentne (INT 10+) używają taktyki, atakują słabszych czarodziejów.
+Potwory zwierzęce atakują najbliższy lub najsilniej pachnący cel.
+Łowcy i humanoidy mogą uciekać gdy straty przekraczają 25-50% grupy.
+Bossowie: Legendary Actions pozwalają działać między turami graczy — nie stoją i czekają.
+
+=== PORADY DLA NOWYCH GRACZY ===
+1. Nie bój się pytać: D&D to gra społeczna. Zapytaj o zasady, jeśli nie wiesz.
+2. Graj postać, nie minmaxuj: najlepsze wspomnienia to roleplay, nie optymalne buildy.
+3. Cooperacja: drużyna razem jest silniejsza. Pomagaj sojusznikom.
+4. Pomyśl przed działaniem: rozpoznaj teren, pytaj NPC, szukaj alternatywnych rozwiązań.
+5. Przyjmij porażkę: przegrany rzut to nie koniec — często otwiera ciekawszą narrację.
+6. Zanotuj ważne informacje: nazwy, miejsca, motywacje NPC.
+
+=== TYPY KAMPANII ===
+Dungeon Crawl: kolejne lochy, skarbce, potwory. Skupione na walce i eksploracji.
+City Intrigue: intrygi polityczne, tajne organizacje, moralne dylematy w mieście.
+Hexcrawl: otwarta eksploracja mapy hex po hex. Swobodny, gracz-prowadzony.
+Sandbox: otwarty świat bez głównej linii fabularnej. Gracze definiują kierunek.
+Railroad (liniowa): MG poprowadzi przez z góry zaplanowaną historię. Łatwa do prowadzenia.
+Megadungeon: jeden ogromny lochy ze swoją ekologią i historią (np. Undermountain).
+
+=== SYSTEMY ALTERNATYWNE ===
+Pathfinder 2e: system wywodzący się z D&D 3.5. Bardziej skomplikowany, szczegółowy.
+OSR (Old School Renaissance): systemy nawiązujące do oryginalnego D&D — prostsze, śmiertelniejsze.
+Savage Worlds: szybszy, prostszy system, działa w wielu settingach.
+Call of Cthulhu: horror, śmiertelność, sanity. Mechanika percentylowa.
+FATE: narracyjny, skupiony na storytellingu. Aspekty zamiast twardych statystyk.
+Blades in the Dark: fikcja noir, heisty, gang przestępczy. Mechanika puli kości.
