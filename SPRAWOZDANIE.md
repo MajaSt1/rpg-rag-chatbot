@@ -117,8 +117,8 @@ który dokument bazy wczytać w **całości**:
 
 ```
 Pytanie → classify_query()
-   ├─ AGREGUJĄCE → get_full_document(plik)  → cały dokument (komplet danych)
-   └─ ZWYKŁE     → search()                 → fragmenty pasujące do pytania
+   ├─ AGREGUJĄCE → get_full_document(pliki)  → całe dokumenty (komplet danych)
+   └─ ZWYKŁE     → search()                  → fragmenty pasujące do pytania
 ```
 
 Po wdrożeniu pytanie „która z wszystkich klas ma najwięcej HP?" zwraca poprawnie
@@ -129,30 +129,52 @@ plików bazy, więc np. „ile jest ras?" sam kieruje do `rasy.txt`, bez żadnej
 pytania* (wybór ścieżki). Właściwa odpowiedź jest **zawsze** generowana na podstawie kontekstu
 z bazy wiedzy — w obu ścieżkach dane pochodzą z plików `data/`, nigdy z samej wiedzy modelu.
 
-Świadomie odrzuciliśmy prostsze obejście — listę **słów kluczowych** („najwięcej", „która
-klasa"...) — jako nieskalowalne (ręczna lista, łatwo o lukę, przyklejone do jednego pliku).
+### 6.5. Routing wielodokumentowy
 
-### 6.5. Koszt rozwiązania
+Niektóre pytania **łączą tematy** i wymagają kilku dokumentów naraz, np. „która klasa najlepiej
+współgra z rasą krasnoluda?" potrzebuje *i* `klasy_postaci.txt`, *i* `rasy.txt`. Dlatego
+`classify_query` zwraca **listę** plików (nie jeden), a `build_prompt` skleja wszystkie wskazane
+dokumenty w jeden kontekst. Dla pytania o krasnoluda klasyfikator poprawnie wskazuje oba pliki.
 
-Routing dodaje jedno krótkie wywołanie klasyfikujące na pytanie (`max_tokens=20`), co jest
-groszowym kosztem. W zamian tryb agregacji wczytuje cały dokument (np. `klasy_postaci.txt`
-~5300 tokenów) — porównywalnie do kilkunastu fragmentów, a z gwarancją kompletu danych.
+### 6.6. Siatka bezpieczeństwa klasyfikatora
+
+Klasyfikator oparty na LLM bywa **niedeterministyczny na pytaniach granicznych** — np. „która
+klasa ma najmniej HP?" bywało przeoczane, mimo że „najwięcej HP" było rozpoznawane. Aby to
+ustabilizować, dodaliśmy **siatkę bezpieczeństwa**: lista słów-sygnałów typowych dla agregacji
+(`AGGREGATION_SIGNALS`: „najwięcej", „najmniej", „wszystkie", „ile jest"…). Jeśli klasyfikator
+zwróci pustą listę, ale pytanie zawiera taki sygnał, **ponawiamy klasyfikację z wymuszeniem
+wyboru pliku** (zakaz odpowiedzi „NONE").
+
+Ważne: słowa-sygnały służą tylko do **wykrycia, że pytanie jest agregujące** — *który* plik
+wczytać decyduje nadal klasyfikator LLM. To istotna różnica wobec odrzuconego wcześniej podejścia
+„czystych słów kluczowych" (które na sztywno mapowało słowo → plik). Dzięki temu rozwiązanie
+pozostaje skalowalne, a zarazem odporne na wahania klasyfikatora. Po dodaniu siatki „najmniej HP"
+poprawnie zwraca **Czarodziej 1d6**.
+
+### 6.7. Koszt rozwiązania
+
+Routing dodaje jedno krótkie wywołanie klasyfikujące na pytanie (`max_tokens=60`), groszowy
+koszt; w rzadkich przypadkach siatki bezpieczeństwa — drugie. W zamian tryb agregacji wczytuje
+całe dokumenty (np. `klasy_postaci.txt` ~5300 tokenów) — porównywalnie do kilkunastu fragmentów,
+a z gwarancją kompletu danych.
 
 ## 7. Możliwe dalsze ulepszenia (poza zakresem projektu)
 
 - **Re-ranking** — pobranie większej puli kandydatów i przesortowanie ich osobnym modelem
   rankującym; lepiej radzi sobie ze zbitymi podobieństwami (sekcja 6.3) niż sam próg.
 - **Próg adaptacyjny** — wykrywanie „cliffa" podobieństwa zamiast stałej wartości progu.
-- **Routing wielodokumentowy** — wczytywanie kilku dokumentów naraz dla pytań łączących tematy
-  (obecnie klasyfikator wskazuje jeden plik).
+- **Klasyfikator fine-tunowany** — zastąpienie klasyfikacji promptem małym, dotrenowanym
+  modelem, by usunąć niedeterminizm na pytaniach granicznych (sekcja 6.6) bez siatki słów-sygnałów.
 
 ## 8. Wnioski
 
 RAG skutecznie odpowiada na pytania faktograficzne i porównania, ograniczając halucynacje
-dzięki zasadzie „odpowiadaj tylko z kontekstu". W trakcie projektu zastosowaliśmy dwa
-usprawnienia ponad podstawowy RAG: (1) zastąpienie stałej liczby fragmentów **progiem
-podobieństwa**, dzięki czemu liczba pobieranych fragmentów dopasowuje się do pytania, oraz
-(2) **routing zapytań** z klasyfikatorem intencji, który rozwiązuje pytania agregujące przez
-wczytanie całego dokumentu. W obu ścieżkach odpowiedź pochodzi z własnej bazy wiedzy.
-Pozostałe ograniczenia (zbite podobieństwa w wąsko-tematycznej bazie) wynikają z natury
-wyszukiwania po podobieństwie i wskazują kierunki dalszej pracy (re-ranking, próg adaptacyjny).
+dzięki zasadzie „odpowiadaj tylko z kontekstu". W trakcie projektu zastosowaliśmy usprawnienia
+ponad podstawowy RAG: (1) zastąpienie stałej liczby fragmentów **progiem podobieństwa**, dzięki
+czemu liczba pobieranych fragmentów dopasowuje się do pytania; (2) **routing zapytań** z
+klasyfikatorem intencji, który rozwiązuje pytania agregujące przez wczytanie całych dokumentów —
+także **wielu naraz** dla pytań łączących tematy; oraz (3) **siatkę bezpieczeństwa** stabilizującą
+klasyfikator na pytaniach granicznych. W każdej ścieżce odpowiedź pochodzi z własnej bazy wiedzy.
+Pozostałe ograniczenia (zbite podobieństwa w wąsko-tematycznej bazie, niedeterminizm klasyfikatora
+promptowego) wynikają z natury wyszukiwania po podobieństwie i klasyfikacji LLM, i wskazują
+kierunki dalszej pracy (re-ranking, próg adaptacyjny, klasyfikator dotrenowany).

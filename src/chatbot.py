@@ -3,9 +3,20 @@ Osoba 2 — logika chatbota: integracja OpenAI, retrieval, historia rozmowy.
 """
 
 import os
+import re
 from openai import OpenAI
 from dotenv import load_dotenv
 from retrieval import search, list_documents, get_full_document
+
+# Siatka bezpieczeństwa dla routingu: słowa-sygnały typowe dla pytań agregujących.
+# Wykrywają TYLKO, że pytanie jest agregujące — nie wskazują pliku (ten ustala się
+# z metadanych najlepszego trafienia retrievalu). Dzięki temu działa dla każdego
+# tematu, a nie tylko dla z góry wpisanych plików.
+AGGREGATION_SIGNALS = (
+    "najwięcej", "najmniej", "najwyższ", "najniższ", "najlepsz", "najgorsz",
+    "najsilniejsz", "najsłabsz", "najtwardsz", "wszystkie", "wszystkich",
+    "ile jest", "która z", "które z", "porównaj", "porównanie", "wypisz", "lista",
+)
 
 load_dotenv()
 
@@ -22,46 +33,71 @@ ZASADY:
 5. FORMAT: Odpowiadaj naturalnie, krótko i po polsku."""
 
 
-def classify_query(user_question: str) -> str | None:
+def classify_query(user_question: str, force: bool = False) -> list[str]:
     """
     Routing: rozpoznaje pytania AGREGUJĄCE (porównujące/zliczające wiele obiektów,
-    np. "która klasa ma najwięcej HP?", "ile jest ras?").
+    np. "która klasa ma najwięcej HP?", "ile jest ras?") oraz pytania ŁĄCZĄCE TEMATY
+    (np. "która klasa najlepiej współgra z rasą krasnoluda?").
 
     Takie pytania wymagają KOMPLETU danych, a wyszukiwanie po podobieństwie zwraca
-    tylko podzbiór fragmentów. Dlatego pytamy tani model, który dokument z bazy
+    tylko podzbiór fragmentów. Dlatego pytamy tani model, które dokumenty z bazy
     wczytać w CAŁOŚCI. Model NIE generuje tu odpowiedzi — jedynie wybiera ścieżkę.
 
-    Zwraca nazwę pliku do wczytania w całości albo None (wtedy używamy zwykłego RAG).
+    force=True wyłącza opcję "NONE" — używane przez siatkę bezpieczeństwa, gdy słowa-
+    sygnały wskazują pytanie agregujące, a zwykła klasyfikacja je przeoczyła.
+
+    Zwraca listę nazw plików do wczytania w całości (może być kilka dla pytań
+    łączących tematy) albo pustą listę (wtedy używamy zwykłego RAG).
     """
     docs = list_documents()
+    none_clause = (
+        "Pytanie NA PEWNO jest agregujące — MUSISZ wskazać co najmniej jeden plik, "
+        "nie wolno Ci odpowiedzieć NONE."
+        if force else
+        "Zwykłe pytanie o jeden konkretny fakt (np. 'ile HP ma Wojownik') "
+        "NIE jest agregujące — wtedy odpowiedz: NONE."
+    )
     decision = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{
             "role": "user",
             "content": (
-                "Oceń, czy pytanie użytkownika jest AGREGUJĄCE — czyli wymaga "
-                "porównania lub zestawienia WIELU elementów naraz (np. 'która z "
-                "wszystkich klas ma najwięcej HP', 'ile jest ras', 'wypisz wszystkie "
-                "zaklęcia'). Zwykłe pytanie o jeden fakt NIE jest agregujące.\n\n"
+                "Oceń, czy pytanie użytkownika jest AGREGUJĄCE. Pytanie jest agregujące, gdy:\n"
+                "- porównuje lub zestawia WIELE elementów w obrębie jednego tematu "
+                "(np. 'która z wszystkich klas ma najwięcej/najmniej HP', 'ile jest ras', "
+                "'wypisz wszystkie zaklęcia') → wskaż JEDEN plik;\n"
+                "- ŁĄCZY różne tematy (np. 'która klasa najlepiej współgra z rasą "
+                "krasnoluda') → wskaż KILKA plików.\n"
+                f"{none_clause}\n\n"
                 f"Dostępne dokumenty bazy wiedzy: {', '.join(docs)}\n\n"
                 f"Pytanie: {user_question}\n\n"
-                "Jeśli pytanie jest agregujące, odpowiedz DOKŁADNIE nazwą jednego "
-                "najbardziej pasującego pliku z listy. W przeciwnym razie odpowiedz: NONE. "
-                "Nie dodawaj nic więcej."
+                "Wypisz nazwy WSZYSTKICH potrzebnych plików z listy, oddzielone "
+                "przecinkami (zwykle 1, ale dla pytań łączących tematy kilka), "
+                "albo NONE. Nie dodawaj nic więcej."
             ),
         }],
-        max_tokens=20,
+        max_tokens=60,
         temperature=0,
     )
     answer = decision.choices[0].message.content.strip()
-    return answer if answer in docs else None
+    # Parsujemy listę nazw plików, zachowując tylko te faktycznie istniejące w bazie.
+    names = [name.strip() for name in answer.split(",")]
+    return [name for name in names if name in docs]
 
 
 def build_prompt(user_question: str) -> str:
-    target_doc = classify_query(user_question)
-    if target_doc:
-        # Tryb agregacji: cały dokument zamiast fragmentów (komplet danych).
-        context = get_full_document(target_doc)
+    target_docs = classify_query(user_question)
+    if not target_docs and any(s in user_question.lower() for s in AGGREGATION_SIGNALS):
+        # Siatka bezpieczeństwa: słowa-sygnały wskazują pytanie agregujące, którego
+        # klasyfikator nie złapał. Ponawiamy klasyfikację z wymuszeniem wyboru pliku
+        # (ten sam mechanizm wyboru, ale bez opcji rezygnacji) — pewniejsze niż
+        # zgadywanie pliku z retrievalu, który mógłby trafić w zły dokument.
+        target_docs = classify_query(user_question, force=True)
+
+    if target_docs:
+        # Tryb agregacji: całe dokumenty zamiast fragmentów (komplet danych).
+        # Dla pytań łączących tematy może to być kilka plików naraz.
+        context = "\n\n---\n\n".join(get_full_document(doc) for doc in target_docs)
     else:
         # Zwykły RAG: fragmenty pasujące do pytania.
         context = "\n\n---\n\n".join(search(user_question))

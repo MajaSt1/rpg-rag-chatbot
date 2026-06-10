@@ -63,6 +63,32 @@ python src/chatbot.py
 python src/ui.py
 ```
 
+## Przykładowe zapytania
+
+```
+user: która klasa ma najwięcej HP?
+assistant: Klasa z największą ilością punktów życia w Dungeons & Dragons 5. edycji
+to Barbarzyńca, który ma 1d12 punktów życia na poziom.
+
+user: która klasa współgra z rasą krasnoluda?
+assistant: Klasa, która szczególnie dobrze współgra z rasą krasnoluda, to Barbarzyńca,
+ze względu na ich wysoką Kondycję i odporność na obrażenia. Inne klasy, które również
+mogą dobrze pasować, to Wojownik i Paladyn, które korzystają z wysokiej wytrzymałości
+i umiejętności walki. Krasnoludowie są znani z miłości do walki i honoru, co czyni je
+idealnymi dla klas frontowych.
+
+user: ile jest ras?
+assistant: W Dungeons & Dragons 5. edycji jest 13 ras, które zostały wymienione
+w dostarczonym kontekście.
+
+user: która klasa ma najmniej HP?
+assistant: Klasa z najmniejszą ilością punktów życia w Dungeons & Dragons 5. edycji
+to Czarodziej, który ma 1d6 punktów życia na poziom.
+
+user: pojedyncze fakty + pizza
+assistant: Nie mam tej informacji w bazie wiedzy.
+```
+
 ## Podział pracy
 
 | Osoba | Zakres |
