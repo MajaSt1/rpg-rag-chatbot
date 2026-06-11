@@ -85,7 +85,7 @@ def classify_query(user_question: str, force: bool = False) -> list[str]:
     return [name for name in names if name in docs]
 
 
-def build_prompt(user_question: str) -> str:
+def build_prompt(user_question: str) -> tuple[str, int, list[str]]:
     target_docs = classify_query(user_question)
     if not target_docs and any(s in user_question.lower() for s in AGGREGATION_SIGNALS):
         # Siatka bezpieczeństwa: słowa-sygnały wskazują pytanie agregujące, którego
@@ -94,31 +94,55 @@ def build_prompt(user_question: str) -> str:
         # zgadywanie pliku z retrievalu, który mógłby trafić w zły dokument.
         target_docs = classify_query(user_question, force=True)
 
+    sources = []
+    fragments_count = 0
+
     if target_docs:
         # Tryb agregacji: całe dokumenty zamiast fragmentów (komplet danych).
         # Dla pytań łączących tematy może to być kilka plików naraz.
         context = "\n\n---\n\n".join(get_full_document(doc) for doc in target_docs)
+        sources = target_docs
+        fragments_count = len(target_docs)  # W trybie agregacji traktujemy każdy pełny plik jako 1 duży fragment
     else:
         # Zwykły RAG: fragmenty pasujące do pytania.
-        context = "\n\n---\n\n".join(search(user_question))
-    return f"Kontekst z bazy wiedzy:\n{context}\n\nPytanie: {user_question}"
+        fragments = search(user_question)
+        context = "\n\n---\n\n".join(fragments)
+        fragments_count = len(fragments)
+        
+        # Ekstrakcja nazw plików z metadanych ("Źródło: nazwa.txt") z tekstów chunków
+        for frag in fragments:
+            match = re.search(r"Źródło:\s*(.*)", frag)
+            if match:
+                src = match.group(1).strip()
+                if src not in sources:
+                    sources.append(src)
+
+    prompt = f"Kontekst z bazy wiedzy:\n{context}\n\nPytanie: {user_question}"
+    return prompt, fragments_count, sources
 
 
-def chat(history: list[dict], user_message: str) -> tuple[str, list[dict]]:
-    """Wysyła wiadomość i zwraca odpowiedź + zaktualizowaną historię."""
-    augmented = build_prompt(user_message)
-    history.append({"role": "user", "content": augmented})
+def chat(history: list[dict], user_message: str) -> tuple[str, list[dict], int, list[str]]:
+    """Wysyła wiadomość i zwraca odpowiedź + zaktualizowaną historię + statystyki retrievalu."""
+    augmented, frag_count, sources = build_prompt(user_message)
+    
+    api_messages = [
+        {"role": "system", "content": SYSTEM_PROMPT},
+        *history,
+        {"role": "user", "content": augmented},
+    ]
 
     response = client.chat.completions.create(
         model="gpt-4o-mini",
-        messages=[{"role": "system", "content": SYSTEM_PROMPT}] + history,
+        messages=api_messages,
         max_tokens=512,
         temperature=0.3,
     )
 
     reply = response.choices[0].message.content
+    history.append({"role": "user", "content": user_message})
     history.append({"role": "assistant", "content": reply})
-    return reply, history
+    
+    return reply, history, frag_count, sources
 
 
 if __name__ == "__main__":
@@ -130,5 +154,6 @@ if __name__ == "__main__":
             break
         if not user_input:
             continue
-        answer, history = chat(history, user_input)
-        print(f"Asystent: {answer}\n")
+      
+        answer, history, f_count, srcs = chat(history, user_input)
+        print(f"Asystent: {answer}\n[Źródła: {', '.join(srcs)} | Fragmenty: {f_count}]\n")
