@@ -67,7 +67,7 @@ HEADER_HTML = """
 
 FOOTER_HTML = """
 <div id="rpg-footer">
-    ⚔ &nbsp; RAG · ChromaDB · GPT-4o-mini &nbsp;·&nbsp; Systemy Dialogowe 2025 &nbsp; ⚔
+    ⚔ &nbsp; RAG · ChromaDB · GPT-4o-mini &nbsp;·&nbsp; Systemy Dialogowe 2026 &nbsp; ⚔
 </div>
 """
 
